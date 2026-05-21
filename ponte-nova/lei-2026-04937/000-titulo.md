@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 4.937, DE 20/05/2026 Altera o artigo 5º da Lei nº 4.904/2025, que estima a receita e fixa a despesa do Município de Ponte Nova para o exercício financeiro de 2026, e o § 1º do artigo 47 da Lei nº 4.856/2025, que dispõe sobre as diretrizes para a elaboração da Lei Orçamentária de 2026.
+A Câmara Municipal de Ponte Nova aprova e eu, Prefeito Municipal, sanciono e promulgo a seguinte Lei:
