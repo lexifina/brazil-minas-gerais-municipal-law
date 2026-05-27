@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 4.939, DE 26/05/2026 Dispõe sobre a recomposição da contagem de tempo de serviço dos servidores públicos da Administração Pública Direta e Indireta, referente ao período suspenso pela Lei Complementar Federal nº 173/2020, regulamenta a Lei Complementar Federal nº 226/2026, e dá outras providências.
+A Câmara Municipal de Ponte Nova aprova e eu, Prefeito Municipal, sanciono e promulgo a seguinte Lei:
