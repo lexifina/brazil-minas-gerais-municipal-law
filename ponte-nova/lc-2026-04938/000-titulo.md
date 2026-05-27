@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR MUNICIPAL Nº 4.938, DE 26/05/2026 Altera a Lei Complementar Municipal nº 4.637/2022 que dispõe sobre a estrutura organizacional e o dimensionamento de cargos e funções da Câmara Municipal de Ponte Nova, para modificar as disposições relacionadas ao cargo de Assistente Administrativo Libras.
+A Câmara Municipal de Ponte Nova aprova e eu, Prefeito Municipal, sanciono e promulgo a seguinte Lei:
