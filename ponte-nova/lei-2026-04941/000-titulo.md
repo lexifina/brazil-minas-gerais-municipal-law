@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 4.941, DE 29/05/2026 Dispõe sobre a concessão de auxílio-moradia provisório às famílias desalojadas e sobre outras medidas compensatórias decorrentes da execução da obra de contenção e estabilização de encosta no Bairro Progresso (Contrato de Repasse nº 964483/2024 - MDR/CAIXA/Novo PAC).
+A Câmara Municipal de Ponte Nova aprova e eu, Prefeito Municipal, sanciono e promulgo a seguinte Lei:
