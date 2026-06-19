@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.637 DE 19 DE JUNHO DE 2026 "Altera as programações orçamentárias decorrentes de emendas parlamentares individuais à Lei Orçamentária Anual de 2026, em razão de impedimentos técnicos insuperáveis, nos termos do art. 46 da Lei Municipal nº 4.557/2025 (LDO)."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
