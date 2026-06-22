@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 4.945, DE 22/06/2026 Autoriza a abertura de crédito adicional especial no orçamento vigente, visando à inclusão de dotações orçamentárias para a execução dos Convênios SEE nº 1261000270/2026 e nº 1261001338/2026, da Proposta SIGCON nº 001425/2026 - destinados à aquisição de veículos para o transporte escolar -, e do Instrumento nº 130100981/2026, voltado para a reforma de praças.
+A Câmara Municipal de Ponte Nova aprova e eu, Prefeito Municipal, sanciono e promulgo a seguinte Lei:
