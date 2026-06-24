@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 4.946, DE 24/06/2026 Altera a Lei Municipal nº 3.369/2009 que dispõe sobre o Programa de Frente de Trabalho "Ponte Nova Trabalhando", e a Lei Municipal nº 4.225/2018 que cria a Casa Abrigo de Ponte Nova, para dispor sobre a implantação de programas de capacitação de pessoas em situação de vulnerabilidade social.
+A Câmara de Ponte Nova aprova e eu, Prefeito Municipal, sanciono e promulgo a seguinte Lei:
