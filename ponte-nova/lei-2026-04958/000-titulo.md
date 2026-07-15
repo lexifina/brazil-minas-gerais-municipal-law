@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 4.958, DE 14/07/2026 Autoriza o Município de Ponte Nova a repassar recursos financeiros à Fundação Filantrópica e Beneficente de Saúde Arnaldo Gavazza Filho, destinados à execução de ações de investimento do Acordo de Reparação do Rio Doce, nos termos do Plano de Ação e da Resolução SES/MG nº 10.963, de 18 de março de 2026.
+A Câmara Municipal de Ponte Nova aprova, e eu, Prefeito Municipal, sanciono e promulgo a seguinte Lei:
