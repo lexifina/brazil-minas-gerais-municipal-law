@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 169 DE 16 DE JULHO DE 2026 Dispõe sobre a criação de cargo comissionado de Assessor Jurídico vinculado à Procuradoria-Geral do Município para assessoramento institucional nas ações relacionadas à política municipal de assistência social, e dá outras providências.
+O PREFEITO MUNICIPAL DE JANUÁRIA/MG, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei Complementar:
