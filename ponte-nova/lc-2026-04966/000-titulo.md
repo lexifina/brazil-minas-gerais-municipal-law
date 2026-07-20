@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR MUNICIPAL Nº 4.966, DE 16/07/2026 Regulamenta o horário de funcionamento dos setores da Prefeitura, dispõe sobre o auxílio-alimentação dos servidores do Poder Executivo, institui o regime de escala 12x36, altera a Lei Complementar nº 4.238/2019, revoga a Lei Complementar 2.423/2000 e dá outras providências.
+A Câmara Municipal de Ponte Nova aprova e eu, Prefeito Municipal, sanciono e promulgo a seguinte Lei Complementar:
