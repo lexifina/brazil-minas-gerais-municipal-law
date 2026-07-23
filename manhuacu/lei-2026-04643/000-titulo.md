@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.643 DE 22 DE JULHO DE 2026 "Dispõe sobre a responsabilização financeira do agressor pelos custos decorrentes de atendimento prestado pelo Sistema Único de Saúde - SUS às vítimas de violência doméstica no Município de Manhuaçu e dá outras providências."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
