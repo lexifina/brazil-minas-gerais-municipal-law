@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.648 DE 22 DE JULHO DE 2026 "Dispõe sobre diretrizes para a renovação digital de receitas médicas para pacientes em tratamento contínuo no âmbito do Município de Manhuaçu e dá outras providências."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
