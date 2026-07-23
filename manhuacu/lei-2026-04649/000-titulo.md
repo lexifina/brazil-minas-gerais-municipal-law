@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.649 DE 22 DE JULHO DE 2026 "Altera a Lei Municipal nº 3.940, de 02 de maio de 2019, para assegurar à pessoa com fibromialgia o direito à identificação de sua condição para fins de exercício dos direitos previstos em lei, e dá outras providências."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
