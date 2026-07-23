@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.646 DE 22 DE JULHO DE 2026 "Inclui no Calendário Oficial de Eventos do Município de Manhuaçu/MG a Caminhada da Santa Cruz, realizada anualmente na primeira semana do mês de maio, e dá outras providências."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
