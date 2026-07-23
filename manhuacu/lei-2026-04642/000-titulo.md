@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.642 DE 14 DE JULHO DE 2026 "Autoriza o Poder Executivo Municipal a realizar desafetação, desmembramento e permuta, com torna, dos imóveis que especifica e dá outras providências."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
