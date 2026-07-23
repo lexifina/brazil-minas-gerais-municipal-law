@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.644 DE 22 DE JULHO DE 2026 "Dispõe sobre a parada de ônibus em qualquer ponto seguro do itinerário, no horário das 21:00 às 05:00 horas, para mulheres, pessoas com deficiência e idosos passageiros do transporte coletivo municipal, e dá outras providências."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
