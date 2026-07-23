@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.647 DE 22 DE JULHO DE 2026 "Altera o inciso VIII, do Art. 1", da Lei nº 2.022 de 13 de setembro de 1.996, para retificar as coordenadas da Avenida Pedro Joaquim do Carmo e dá outras providências."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
