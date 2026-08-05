@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.651 DE 30 DE JULHO DE 2026 Alteram-se os Arts. 3º e 4º da Lei Municipal nº 4.561, de 27 de agosto de 2025, que institui o Programa "Amar é um Direito", e dá outras providências.
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
