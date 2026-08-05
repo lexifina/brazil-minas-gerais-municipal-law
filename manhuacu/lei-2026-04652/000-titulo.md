@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.652 DE 30 DE JULHO DE 2026 "Inclui no Calendário Oficial de Eventos do Município de Manhuaçu/MG o evento Cavalgada Tradicional da Rota do Café em Manhuaçu, realizada anualmente no mês de setembro, e dá outras providências."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
