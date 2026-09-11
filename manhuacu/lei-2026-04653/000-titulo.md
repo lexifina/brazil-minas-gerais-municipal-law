@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.653 DE 28 DE AGOSTO DE 2026 "Dispõe sobre a inclusão no Calendário Oficial do Município de Manhuaçu, o evento 'Desafio das Areias', a ser realizado anualmente no mês de abril, e dá outras providências."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
