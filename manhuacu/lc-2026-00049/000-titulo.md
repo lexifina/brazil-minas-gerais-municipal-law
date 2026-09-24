@@ -1,0 +1,1 @@
+# LEI COMPLEMENTAR Nº 49 DE 06 DE AGOSTO DE 2026 "Altera os arts. 122-A, 122-B е 122-D da Lei Complementar nº 04, de 12 de dezembro de 2017, quе contém o Código de Posturas do Município de Manhuaçи, para estabelecer padrões técnicos de segurança, identificação visual, organizadores de cabeamento gradação de penalidades para o serviço de fiação aérea, e dá outras providências."
