@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.663 DE 23 DE SETEMBRO DE 2026 "Altera o inciso XIII do art. 8º da Lei Municipal nº 4.164, de 20 de outubro de 2021, para vedar a obrigatoriedade de utilização de logomarca, adesivo ou identidade visual comercial de plataformas de transporte por aplicativo nos veículos utilizados na prestação do serviço, e dá outras providências."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
