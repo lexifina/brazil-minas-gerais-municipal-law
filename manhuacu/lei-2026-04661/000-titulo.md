@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.661 DE 23 DE SETEMBRO DE 2026 "Institui a Política Municipal de Monitoramento Eletrônico nas Escolas e Centros Municipais de Educação Infantil da Rede Pública de Ensino do Município de Manhuaçu e dá outras providências."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
