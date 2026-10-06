@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 4.980, DE 02/10/2026 Dispõe sobre a obrigatoriedade de Organizações da Sociedade Civil contempladas com subvenção social ou que celebrem instrumentos de parceria com a Administração Pública Municipal, com transferência de recursos financeiros, desenvolverem ações de conscientização e prevenção à violência contra a mulher e de combate à discriminação e ao preconceito, e dá outras providências.
+A Câmara Municipal de Ponte Nova aprova e eu, Prefeito Municipal, sanciono e promulgo a seguinte Lei:
