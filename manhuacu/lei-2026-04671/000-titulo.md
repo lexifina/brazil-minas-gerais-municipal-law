@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.671 DE 20 DE OUTUBRO DE 2026 "Dá a denominação de Rua José Expedito Duarte a via pública localizado no Distrito de Vilanova, Município de Manhuaçu/MG, e dá outras providências."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
