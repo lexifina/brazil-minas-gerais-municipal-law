@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N° 51 DE 20 DE OUTUBRO DE 2026 "Acrescenta o cargo de Educador Social ao Anexo I da Lei Complementar nº 25, de 4 de abril de 2024, que dispõe sobre o Plano de Cargos, Carreiras e Vencimentos dos servidores públicos da Administração Direta do Município de Manhuaçu, e dá outras providências."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
