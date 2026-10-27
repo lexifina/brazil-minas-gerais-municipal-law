@@ -1,0 +1,2 @@
+# LEI MUNICIPAL N°4.673 DE 27 DE OUTUBRO DE 2026 "Substitui integralmente a Seção IV do Capítulo III da Lei Municipal nº 4.654, de 30 de agosto de 2026, que dispõe sobre as Diretrizes Orçamentárias do Município de Manhuaçu para o exercício de 2027."
+O Povo do Município de Manhuaçu, Estado de Minas Gerais, por seus Representantes na Câmara Municipal aprovou e eu, Maria Imaculada Dutra Dornelas, Prefeita Municipal, sanciono e promulgo a seguinte Lei:
