@@ -2,6 +2,81 @@
  "country": "BR-MG-MUNICIPAL",
  "acts": [
   {
+   "slug": "bom-despacho/lei-2026-03116",
+   "unit": "bom-despacho",
+   "short": "Lei 3116/2026",
+   "title": "Lei nº 3.116, de 24 de setembro de 2026",
+   "url": "https://sapl.bomdespacho.mg.leg.br/norma/2981",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 3,
+     "source_url": "https://sapl.bomdespacho.mg.leg.br/media/sapl/public/normajuridica/2026/2981/dome-003288-24-09-2026.pdf",
+     "sha256": "a9a203efb578bead696c69275b5ec1417cc129df6c58402e3b4e700de14690c4"
+    }
+   ]
+  },
+  {
+   "slug": "bom-despacho/lei-2026-03115",
+   "unit": "bom-despacho",
+   "short": "Lei 3115/2026",
+   "title": "Lei nº 3.115, de 24 de setembro de 2026",
+   "url": "https://sapl.bomdespacho.mg.leg.br/norma/2980",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 4,
+     "source_url": "https://sapl.bomdespacho.mg.leg.br/media/sapl/public/normajuridica/2026/2980/dome-003288-24-09-2026.pdf",
+     "sha256": "a9a203efb578bead696c69275b5ec1417cc129df6c58402e3b4e700de14690c4"
+    }
+   ]
+  },
+  {
+   "slug": "bom-despacho/lei-2026-03113",
+   "unit": "bom-despacho",
+   "short": "Lei 3113/2026",
+   "title": "Lei nº 3.113, de 24 de setembro de 2026",
+   "url": "https://sapl.bomdespacho.mg.leg.br/norma/2978",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 9,
+     "source_url": "https://sapl.bomdespacho.mg.leg.br/media/sapl/public/normajuridica/2026/2978/dome-003288-24-09-2026.pdf",
+     "sha256": "a9a203efb578bead696c69275b5ec1417cc129df6c58402e3b4e700de14690c4"
+    }
+   ]
+  },
+  {
+   "slug": "bom-despacho/lei-2026-03112",
+   "unit": "bom-despacho",
+   "short": "Lei 3112/2026",
+   "title": "Lei nº 3.112, de 24 de setembro de 2026",
+   "url": "https://sapl.bomdespacho.mg.leg.br/norma/2977",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 9,
+     "source_url": "https://sapl.bomdespacho.mg.leg.br/media/sapl/public/normajuridica/2026/2977/dome-003288-24-09-2026.pdf",
+     "sha256": "a9a203efb578bead696c69275b5ec1417cc129df6c58402e3b4e700de14690c4"
+    }
+   ]
+  },
+  {
+   "slug": "bom-despacho/lei-2026-03111",
+   "unit": "bom-despacho",
+   "short": "Lei 3111/2026",
+   "title": "Lei nº 3.111, de 17 de julho de 2026",
+   "url": "https://sapl.bomdespacho.mg.leg.br/norma/2976",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 54,
+     "source_url": "https://sapl.bomdespacho.mg.leg.br/media/sapl/public/normajuridica/2026/2976/lei_3.111_de_17-07-2026_-_dispoe_sobre_as_diretrizes_para_elaboracao_da_lei_do_orcamento_anual_de_2.027_e_da_outras_providencias.pdf",
+     "sha256": "5a3c6302438f2ccb864379e1810024ab8ddee7e56084ce1d3f539c224011f865"
+    }
+   ]
+  },
+  {
    "slug": "contagem/lei-2026-05775",
    "unit": "contagem",
    "short": "Lei 5775/2026",
@@ -1232,6 +1307,1251 @@
    ]
   },
   {
+   "slug": "januaria/lc-2026-00170",
+   "unit": "januaria",
+   "short": "LC 170/2026",
+   "title": "Lei Complementar nº 170, de 16 de julho de 2026",
+   "url": "https://sapl.januaria.mg.leg.br/norma/3689",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 8,
+     "source_url": "https://sapl.januaria.mg.leg.br/media/sapl/public/normajuridica/2026/3689/lc_n_170.pdf",
+     "sha256": "1ea026417edeacc4b6bc725af4d1cb4514fceeb46013e42f834426460efc977a"
+    }
+   ]
+  },
+  {
+   "slug": "januaria/lc-2026-00169",
+   "unit": "januaria",
+   "short": "LC 169/2026",
+   "title": "Lei Complementar nº 169, de 16 de julho de 2026",
+   "url": "https://sapl.januaria.mg.leg.br/norma/3688",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 8,
+     "source_url": "https://sapl.januaria.mg.leg.br/media/sapl/public/normajuridica/2026/3688/lc_n_169.pdf",
+     "sha256": "1bec0a4a82627f840444fdc158c5d9254bc528e4909885ed1d9f47f0f91ffc3e"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04490",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4490/2026",
+   "title": "Lei nº 4.490, de 28 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6694",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6694/lei_no_4.490-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r1.500.00000_-_proposicao_de_lei_no_184-2026.pdf",
+     "sha256": "2f9862bd55544d2fe80e8c3b7ea220b7500694d579115413b753f03e4f66fbdd"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04489",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4489/2026",
+   "title": "Lei nº 4.489, de 28 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6693",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6693/lei_no_4.489-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r470.00000_-_proposicao_de_lei_no_183-2026.pdf",
+     "sha256": "9c2314378a1e873ed1f68ee4c001ffcaeaa35abf6a84b158919ef5534114e062"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04488",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4488/2026",
+   "title": "Lei nº 4.488, de 28 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6692",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6692/lei_no_4.488-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r787.42919_-_proposicao_de_lei_no_182-2026.pdf",
+     "sha256": "c9728f64227b8d04771868e28185c1f8a504466cc42402fa6f3177b3ebf502d1"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04487",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4487/2026",
+   "title": "Lei nº 4.487, de 27 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6691",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 3,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6691/lei_no_4.487-2026_-_autoriza_o_municipio_a_conceder_subvencao_social_r_31.90675-asap_proposicao_de_lei_no_185-2026.pdf",
+     "sha256": "823ac2df34bbe8077c8eedad5e31ea6eab45b89454cb9ee5a4d687c68f75d391"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04486",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4486/2026",
+   "title": "Lei nº 4.486, de 26 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6690",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6690/lei_no_4.486-2026_-_autoriza_o_municipio_a_abrir_credito_especial_r_460.00000-proposicao_de_lei_no_179-2026.pdf",
+     "sha256": "fe0f6639a867daf5728d5c8578edcb418360d9a14155dde396698d54a455e9bf"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lc-2026-00330",
+   "unit": "lagoa-da-prata",
+   "short": "LC 330/2026",
+   "title": "Lei Complementar nº 330, de 26 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6698",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6698/lei_complementar_no_330-2026_-_altera_lei_complementar_no_003-1991_proposicao_de_lei_complementar__no_024-2026.pdf",
+     "sha256": "d90f933131ba3dba56e5b1e1443bbb282f99d8bea7db4b9fc581730a60d15b6c"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lc-2026-00329",
+   "unit": "lagoa-da-prata",
+   "short": "LC 329/2026",
+   "title": "Lei Complementar nº 329, de 26 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6697",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6697/lei_complementar_no_329-2026_-_altera_lei_complementar_no_051-2005_proposicao_de_lei_complementar__no_025-2026.pdf",
+     "sha256": "5186bd732fac1dba2cbcba058d272108f4fdfc4b4789a4f00b3896fd7ae9c2c8"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04485",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4485/2026",
+   "title": "Lei nº 4.485, de 19 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6689",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6689/lei_no_4.485-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r533.60070_-_proposicao_de_lei_no_178-2026.pdf",
+     "sha256": "ab79a6e4ca4598afb5f2c3ee5f365cbe8c64516e0a8019108ea56867dda97541"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04484",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4484/2026",
+   "title": "Lei nº 4.484, de 19 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6688",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6688/lei_no_4.484-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r361.65488_-_proposicao_de_lei_no_177-2026.pdf",
+     "sha256": "dfcc3ed3c841d453fcc239e617be993cfc9a8fbf031fb637bc0f4d6a10987c95"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04482",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4482/2026",
+   "title": "Lei nº 4.482, de 19 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6686",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 11,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6686/lei_no_4.482-2026_-dispoe_sobre_a_desafetacao_de_bens_imoveis_doa_com_encargos_imoveis_a_confeccoes_santos__silva_ltda_proposicao_de_lei_no_175-2026.pdf",
+     "sha256": "9794ff57c3c5301cab8834189288c31a1c871cb69fce8170808084cd6a2b0ad9"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04481",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4481/2026",
+   "title": "Lei nº 4.481, de 19 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6685",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 3,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6685/lei_no_4.481-2026_-_da_nome_a_rua_f_situada_no_bairro_mangabeiras_proposicao_de_lei_no_174-2026.pdf",
+     "sha256": "8d7c1d509d0801632f2bd944854b82bdd31e30e436d44669dc1966d0409f6851"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04480",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4480/2026",
+   "title": "Lei nº 4.480, de 19 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6684",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6684/lei_no_4.480-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r500.00000_-_proposicao_de_lei_no_173-2026.pdf",
+     "sha256": "0acd7a928a745cf0137b567c348de0dcbc84802bb18a6f36cbe3283d27124d17"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04479",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4479/2026",
+   "title": "Lei nº 4.479, de 19 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6683",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6683/lei_no_4.479-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r515.00000_-_proposicao_de_lei_no_172-2026.pdf",
+     "sha256": "adf1920e6d01aa9d15808310d6f3e6940694b7aa70324ae20b55b2d13853e868"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04478",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4478/2026",
+   "title": "Lei nº 4.478, de 19 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6682",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6682/lei_no_4.478-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r1.310.00000_-_proposicao_de_lei_no_171-2026.pdf",
+     "sha256": "d62207ed4d42212b48f60689d34664c336c4e2947d0c7e0e8c4d0a5c9b955410"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04477",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4477/2026",
+   "title": "Lei nº 4.477, de 19 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6681",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6681/lei_no_4.477-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r128.63506_-_proposicao_de_lei_no_170-2026.pdf",
+     "sha256": "eca1c7e086e2aab8c2be5123bd3ca8a8322d8bb524a1e52a4673538eaf3224e3"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04476",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4476/2026",
+   "title": "Lei nº 4.476, de 19 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6680",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6680/lei_no_4.476-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r_433.00000_saae_-_proposicao_de_lei_no_169-2026.pdf",
+     "sha256": "4e06c7dacfc1cc016b577fcf640e484ae2628948b7b13d3fe99a272e018eb75b"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lc-2026-00328",
+   "unit": "lagoa-da-prata",
+   "short": "LC 328/2026",
+   "title": "Lei Complementar nº 328, de 19 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6696",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 5,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6696/lei_complementar_no_328-2026_-_altera_anexo_ii__lei_complementar_no_03-1991_proposicao_de_lei_complementar__no_023-2026.pdf",
+     "sha256": "c4a725215b070d60c4b650a8326cdad27e9aadbfc44c695bdee59210ebc66b74"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lc-2026-00327",
+   "unit": "lagoa-da-prata",
+   "short": "LC 327/2026",
+   "title": "Lei Complementar nº 327, de 19 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6695",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 3,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6695/lei_complementar_no_327-2026_-_altera_lei_complementar_no_05-1991_proposicao_de_lei_complementar__no_022-2026.pdf",
+     "sha256": "60040fd29c4888d2c12b2205d4596fabebb2fa12ddc88230d6b329de5982a12a"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04475",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4475/2026",
+   "title": "Lei nº 4.475, de 6 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6671",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 5,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6671/lei_no_4.475-2026_-_altera_a_lei_no_3.911-2023-proposicao_de_lei_no_156-2026.pdf",
+     "sha256": "6824ae933e550d8d1f6212a116faadace85153ac15c58ebea553b371e4c59a1d"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04474",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4474/2026",
+   "title": "Lei nº 4.474, de 6 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6670",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 3,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6670/lei_no_4.474-2026_-autoriza_o_municipio_a_conceder_subvencao_a_entidade_que_menciona-_apae_r_200.00000_-_proposicao_de_lei_no_168-2026.pdf",
+     "sha256": "7d3104258c955d4b0b4cc76849ebe821f164dc3419127cdf143129e116049b44"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04473",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4473/2026",
+   "title": "Lei nº 4.473, de 6 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6669",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 3,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6669/lei_no_4.473-2026_-autoriza_o_municipio_a_conceder_subvencao_a_entidade_que_menciona-_fundacao_sao_carlos_r_995.8800000_-_proposicao_de_lei_no_167-2026.pdf",
+     "sha256": "e30ff4a818b531e7537524819061dc1159682060596d1c12777f83364b39d6de"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04472",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4472/2026",
+   "title": "Lei nº 4.472, de 6 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6668",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6668/lei_no_4.472-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r_2.049.00000_-_proposicao_de_lei_no_166-2026.pdf",
+     "sha256": "fcc1b4f27f49aa8e997c8d710513566505844eb6440154c2d91000a60b7bb982"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04471",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4471/2026",
+   "title": "Lei nº 4.471, de 6 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6667",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6667/lei_no_4.471-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r_61.20000_-_proposicao_de_lei_no_165-2026.pdf",
+     "sha256": "4c4c458a32f014dab00afe8cdbf66ca7a813e75080a1a66a46d5bb90091f082c"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04470",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4470/2026",
+   "title": "Lei nº 4.470, de 6 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6666",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6666/lei_no_4.470-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r_213.00000_-_proposicao_de_lei_no_164-2026.pdf",
+     "sha256": "ebeb21ec938d497f22755592017fa8b0373328e52823edbd482993313416599f"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04469",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4469/2026",
+   "title": "Lei nº 4.469, de 6 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6665",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6665/lei_no_4.469-2026_-autoriza_o_municipio_a__abrir_credito_suplementar_r_145.00000_-_proposicao_de_lei_no_163-2026.pdf",
+     "sha256": "fba283dd62170ca52c09ff0f30713a614ff217608f1f70bd66684b3b396dc136"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04468",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4468/2026",
+   "title": "Lei nº 4.468, de 6 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6664",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6664/lei_no_4.468-2026_-altera_a_lei_no_3.879-2026._doacao_de_imoveis_-_proposicao_de_lei_no_162-2026.pdf",
+     "sha256": "088c60b29634e5432839394da44566db23574ba76abc3b6c66e74d679c731c2d"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04467",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4467/2026",
+   "title": "Lei nº 4.467, de 6 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6663",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 3,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6663/lei_no_4.467-2026_-autoriza_o_servico_autonomo_de_agua_e_esgoto_a_receber_doacoes_e_repassar_a_apa_-_proposicao_de_lei_no_161-2026.pdf",
+     "sha256": "a913cfe7cf66cba9a537ff4e8fdcf31bbbff35ad9eaafcd0381da399701daac5"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04466",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4466/2026",
+   "title": "Lei nº 4.466, de 6 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6662",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 3,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6662/lei_no_4.466-2026_-declara_de_utilidade_publica_a_associacao_atletica_de_lagoa_da_prata__-aalp_-_proposicao_de_lei_no_160-2026.pdf",
+     "sha256": "b62fe5195a603512d689e4bb1ec155ca6c3d363c68cd07cdb9148d2d5d510bce"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lc-2026-00326",
+   "unit": "lagoa-da-prata",
+   "short": "LC 326/2026",
+   "title": "Lei Complementar nº 326, de 6 de outubro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6676",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6676/lei_complementar_no_326-2026_-_altera_lei_complementar_no_261-2023_proposicao_de_lei_complementar__no_021-2026.pdf",
+     "sha256": "ff8e0f9c36f11a44518c8e3e10da6c60b83618e09bc7c3ecb3139216d3217f85"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04465",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4465/2026",
+   "title": "Lei nº 4.465, de 24 de setembro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6661",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 3,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6661/lei_no_4.465-2026_-_autoriza_o_executivo_municipal_a_conceder_auxilio_-_fundacao_sao_carlos_-_r_500.56800_proposicao_de_lei_no_159-2026.pdf",
+     "sha256": "3e439ac7d183f757cbb5ff15950bd4af5a4344a9be1dace07982b265b4e16cbd"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04464",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4464/2026",
+   "title": "Lei nº 4.464, de 24 de setembro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6660",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 3,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6660/lei_no_4.464-2026_-_autoriza_o_executivo_municipal_a_conceder_auxiliol_-_fundacao_sao_carlos_-_r_100.24300_proposicao_de_lei_no_158-2026.pdf",
+     "sha256": "b665807af5e808c64c8d55739dc41a9993b17e4512752cc166c63d6e14f51db2"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04463",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4463/2026",
+   "title": "Lei nº 4.463, de 24 de setembro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6659",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 5,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6659/lei_no_4.463-2026_-_autoriza_o_municipio_a_abrir_credito_especial_r_31.90675-proposicao_de_lei_no_157-2026.pdf",
+     "sha256": "ec937162f63958250555830bcc62ebf5cef3d2b67e1dc8449be78788096e8b6b"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04462",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4462/2026",
+   "title": "Lei nº 4.462, de 24 de setembro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6658",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 3,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6658/lei_no_4.462-2026_-_da_nome_a_praca_jose_miranda_neto-proposicao_de_lei_no_155-2026.pdf",
+     "sha256": "01716c55b7a245bf7fb632883358dca703c35b3e72d6d3d6a69cfe0fa108b5f5"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04461",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4461/2026",
+   "title": "Lei nº 4.461, de 16 de setembro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6652",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6652/lei_no_4.461-2026_-_altera_lei_no_4.439-2026_que_autoriza_o_municipio_a_abrir_credito_suplementar_r585.00000proposicao_de_lei_no_154-2026.pdf",
+     "sha256": "d42008377aea8a4235a31a77ad22ac3be2c2db6912971f52cc34dc99256672e6"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04460",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4460/2026",
+   "title": "Lei nº 4.460, de 16 de setembro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6651",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6651/lei_no_4.460-2026_-_altera_lei_no_4.407-2026_que_autoriza_o_municipio_a_abrir_credito_suplementar_r1.390.00000proposicao_de_lei_no_153-2026.pdf",
+     "sha256": "2b99c324519f1848e11ec0351f339a39a8c45d31532210d09597ebfefc53e109"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lc-2026-00325",
+   "unit": "lagoa-da-prata",
+   "short": "LC 325/2026",
+   "title": "Lei Complementar nº 325, de 16 de setembro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6655",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6655/lei_complementar_no_325-2026_-_altera_a_lei_complementar_no_282_de_06_de_maio_de_2024_proposicao_de_lei_complementar__no_020-2026.pdf",
+     "sha256": "74be5472452cff4175f7a7b09527161291032bdad69c57c3ea008adea9a5b497"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04459",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4459/2026",
+   "title": "Lei nº 4.459, de 8 de setembro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6641",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6641/lei_no_4.459-2026_-_autoriza_o_municipio_a_abrir_credito_suplementar_r_40.00000proposicao_de_lei_no_152-2026.pdf",
+     "sha256": "8f338462f6aaa7a8a95a0bd6c21bba0f6836f0ced8caa02677398198d77a1ff7"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04458",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4458/2026",
+   "title": "Lei nº 4.458, de 8 de setembro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6640",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6640/lei_no_4.458-2026_-_autoriza_o_municipio_a_abrir_credito_suplementar_r_814.00000proposicao_de_lei_no_151-2026.pdf",
+     "sha256": "32d30efe98d5f3d9e6b5bb9d532b44f6ae609ac962e72d8f05bd84168cf234a7"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04457",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4457/2026",
+   "title": "Lei nº 4.457, de 8 de setembro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6639",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6639/lei_no_4.457-2026_-_autoriza_o_municipio_a_abrir_credito_suplementar_r_2.166.00000proposicao_de_lei_no_150-2026.pdf",
+     "sha256": "99c7a73913be1310f218d7e4dba7f4f13db94a8113af3dfb0be5b3d0c67b7d4b"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04456",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4456/2026",
+   "title": "Lei nº 4.456, de 8 de setembro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6638",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6638/lei_no_4.456-2026_-_autoriza_o_municipio_a_abrir_credito_suplementar_r_798.85074_proposicao_de_lei_no_149-2026.pdf",
+     "sha256": "80e76e2ad59fbea5666fff8acfb7b6d66c1b8da0b13f1f30326a0b00294cf98b"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04455",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4455/2026",
+   "title": "Lei nº 4.455, de 1 de setembro de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6637",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6637/lei_no_4.455-2026_-_dispoe_sobre_a_obrigatoriedade_da_fixacao_de_cartaz_ou_placa_informativa_dos_direitos_do_usuario_dos_servicos_publicos_proposicao_de_lei_no_134-2026.pdf",
+     "sha256": "2b5354576b09e926d46e6173c66461f247a57b80909f0cf14382d996f72f8046"
+    }
+   ]
+  },
+  {
+   "slug": "lagoa-da-prata/lei-2026-04454",
+   "unit": "lagoa-da-prata",
+   "short": "Lei 4454/2026",
+   "title": "Lei nº 4.454, de 27 de agosto de 2026",
+   "url": "https://sapl.lagoadaprata.mg.leg.br/norma/6635",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 4,
+     "source_url": "https://sapl.lagoadaprata.mg.leg.br/media/sapl/public/normajuridica/2026/6635/lei_no_4.454-2026_-_autoriza_o_municipio_a_abrir_credito_especial_r20.00000_proposicao_de_lei_no_148-2026.pdf",
+     "sha256": "f792ff160a80b11c1bd3fad19f28f1e01cd2d6819dc739e609cce347ab8a5e60"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04673",
+   "unit": "manhuacu",
+   "short": "Lei 4673/2026",
+   "title": "Lei nº 4.673, de 22 de outubro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7267",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 8,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7267/lei_municipal_n4.673_de_27_de_outubro_de_2026.pdf",
+     "sha256": "f9c15c5d8bc71e071aaec014ad4f334139ac8ad4416726fc6db84b4d06cd0db6"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04672",
+   "unit": "manhuacu",
+   "short": "Lei 4672/2026",
+   "title": "Lei nº 4.672, de 8 de outubro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7272",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 4,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7272/lei_municipal_n4.672_de_20_de_outubro_de_2026.pdf",
+     "sha256": "6b09fcddf3fb52029d8ef3ad0a8e58a59a2da0ae99458aa6f9f7667bbdff776b"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04671",
+   "unit": "manhuacu",
+   "short": "Lei 4671/2026",
+   "title": "Lei nº 4.671, de 8 de outubro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7271",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7271/lei_municipal_n4.671_de_20_de_outubro_de_2026.pdf",
+     "sha256": "85d1b50a59a0c8b495f1f0f0bd2a5462a91e6a91c4af6fff04d80fb9d960f904"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04670",
+   "unit": "manhuacu",
+   "short": "Lei 4670/2026",
+   "title": "Lei nº 4.670, de 8 de outubro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7270",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 62,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7270/lei_municipal_n4.670_de_20_de_outubro_de_2026.pdf",
+     "sha256": "01335b5c59f6d69c5c80e29a389db03b6cb087db2febff0b54d847d83480882f"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lc-2026-00051",
+   "unit": "manhuacu",
+   "short": "LC 51/2026",
+   "title": "Lei Complementar nº 51, de 8 de outubro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7273",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 10,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7273/lei_complementar_n_51_de_20_de_outubro_de_2026.pdf",
+     "sha256": "e797bda5fe168ed99394d8b82246e3b251eb789709260b3c988fe123e5ec6f51"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04669",
+   "unit": "manhuacu",
+   "short": "Lei 4669/2026",
+   "title": "Lei nº 4.669, de 30 de setembro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7263",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7263/lei_n4.669-2026.pdf",
+     "sha256": "d2cf46252e06f4f6049bb5c507629695eb60ea665cfbd8f2a9620f14754a8c24"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04668",
+   "unit": "manhuacu",
+   "short": "Lei 4668/2026",
+   "title": "Lei nº 4.668, de 30 de setembro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7262",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7262/lein4.668-2026.pdf",
+     "sha256": "e508f2888988ec9edf2fb6eab3f08efe849bdf3cdbe927ec4f0535d230a5d084"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lc-2026-00049",
+   "unit": "manhuacu",
+   "short": "LC 49/2026",
+   "title": "Lei Complementar nº 49, de 6 de setembro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7253",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 3,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7253/lc_no_49-2026_-_promulgacao_plc_no_7-2025_altera_o_codigo_de_posturas.pdf",
+     "sha256": "2d7d65ad61280349e00de834d9355bc11d5f1fa3d672ae6d4ccaa9279baed28d"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04667",
+   "unit": "manhuacu",
+   "short": "Lei 4667/2026",
+   "title": "Lei nº 4.667, de 3 de setembro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7260",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7260/lei_municipal_n4.667_de_23_de_setembro_de_2026.pdf",
+     "sha256": "628ba68aa33f880da788c56d8d93a0289a425f71ce01a3ca83f629fb38f1e13e"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04666",
+   "unit": "manhuacu",
+   "short": "Lei 4666/2026",
+   "title": "Lei nº 4.666, de 3 de setembro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7259",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 4,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7259/lei_municipal_n4.666_de_23_de_setembro_de_2026.pdf",
+     "sha256": "b62b4e392d211eba937c28998c820de1d35edf57cb2efa067e004a6669830317"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04665",
+   "unit": "manhuacu",
+   "short": "Lei 4665/2026",
+   "title": "Lei nº 4.665, de 3 de setembro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7258",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7258/lei_municipal_n4.665_de_23_de_setembro_de_2026.pdf",
+     "sha256": "72c6b84946781ac39ef7082b490dcd145061d720ad1c09ff4c897672722c7ea6"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04664",
+   "unit": "manhuacu",
+   "short": "Lei 4664/2026",
+   "title": "Lei nº 4.664, de 3 de setembro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7257",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7257/lei_municipal_n4.664_de_23_de_setembro_de_2026.pdf",
+     "sha256": "e708e1ff0cde015010174b39ede22d69ff8f1551e7ba55afbfb627bee5706826"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04663",
+   "unit": "manhuacu",
+   "short": "Lei 4663/2026",
+   "title": "Lei nº 4.663, de 3 de setembro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7256",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 8,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7256/lei_municipal_n4.663_de_23_de_setembro_de_2026.pdf",
+     "sha256": "4b1862ae1490ec26bb59142e007334debf9c959e5b0b1d27c3aa80dc8dcc20b0"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04662",
+   "unit": "manhuacu",
+   "short": "Lei 4662/2026",
+   "title": "Lei nº 4.662, de 3 de setembro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7255",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7255/lei_municipal_n4.662_de_23_de_setembro_de_2026.pdf",
+     "sha256": "f494929d062ae16466539cd9f45ccfe1785d0f04112f7f20b83408346680b6c2"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04661",
+   "unit": "manhuacu",
+   "short": "Lei 4661/2026",
+   "title": "Lei nº 4.661, de 3 de setembro de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7254",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 10,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7254/lei_municipal_n4.661_de_23_de_setembro_de_2026.pdf",
+     "sha256": "8fc6a18c49b15da556753e71743468cbea880866f05b46e28c553064d3db94c8"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04660",
+   "unit": "manhuacu",
+   "short": "Lei 4660/2026",
+   "title": "Lei nº 4.660, de 20 de agosto de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7249",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7249/lei_municipal_n4.660_de_10_de_setembro_de_2026.pdf",
+     "sha256": "740d02ff5941e6a770a9bc467876c5da1c87e0303d1b24b654a633be766fce3f"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04659",
+   "unit": "manhuacu",
+   "short": "Lei 4659/2026",
+   "title": "Lei nº 4.659, de 20 de agosto de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7248",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7248/lei_municipal_n4.659_de_10_de_setembro_de_2026.pdf",
+     "sha256": "39400e629df0c8d5bb13959fcf0eb05da26772cc68c2b0de151497348c6c5ca9"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04658",
+   "unit": "manhuacu",
+   "short": "Lei 4658/2026",
+   "title": "Lei nº 4.658, de 20 de agosto de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7247",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7247/lei_municipal_n4.658_de_10_de_setembro_de_2026.pdf",
+     "sha256": "9a81f37241430848a3df01250984a5965943240105acfe3944088f8420249a2d"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04657",
+   "unit": "manhuacu",
+   "short": "Lei 4657/2026",
+   "title": "Lei nº 4.657, de 20 de agosto de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7246",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7246/lei_municipal_n4.657_de_10_de_setembro_de_2026.pdf",
+     "sha256": "2244e4c8a2ba2b9a671a3dd1f197640c8b8343d6c55830dcd95b55417e22e3c6"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04656",
+   "unit": "manhuacu",
+   "short": "Lei 4656/2026",
+   "title": "Lei nº 4.656, de 20 de agosto de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7245",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7245/lei_municipal_n4.656_de_10_de_setembro_de_2026.pdf",
+     "sha256": "ebd124830caa31220fdd3499bded2b817e437e0b9de2460486821c1bab7196f4"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04655",
+   "unit": "manhuacu",
+   "short": "Lei 4655/2026",
+   "title": "Lei nº 4.655, de 20 de agosto de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7244",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7244/lei_municipal_n4.655_de_10_de_setembro_de_2026.pdf",
+     "sha256": "b5d33a1b75f7272530e08e8eb0bc8a93a6112aab1f89d483e6bf83b25265aabd"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04653",
+   "unit": "manhuacu",
+   "short": "Lei 4653/2026",
+   "title": "Lei nº 4.653, de 6 de agosto de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7241",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7241/lei_municipal_n4.653_de_28_de_agosto_de_2026.pdf",
+     "sha256": "aa7379cc523990fbe6b572fd8d535d7dd9afb2a463e21a2c3c97e5cc10cf8d72"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lc-2026-00048",
+   "unit": "manhuacu",
+   "short": "LC 48/2026",
+   "title": "Lei Complementar nº 48, de 6 de agosto de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7243",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 6,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7243/lei_complementar_n_48_de_30_de_agosto_de_2026.pdf",
+     "sha256": "47bc2652d3200b2bb39bde250d1a7198c77ae936715a8b374a0f0253c60c20c6"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04652",
+   "unit": "manhuacu",
+   "short": "Lei 4652/2026",
+   "title": "Lei nº 4.652, de 23 de julho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7201",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 7,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7201/lei_municipal_n4.652_de_30_de_julho_de_2026.pdf",
+     "sha256": "985e9999ad85322a1ebe19ddacd801a1644b2c59c82fb87dff4bfd9ce276406f"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04651",
+   "unit": "manhuacu",
+   "short": "Lei 4651/2026",
+   "title": "Lei nº 4.651, de 23 de julho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7200",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 5,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7200/lei_municipal_n4.651_de_30_de_julho_de_2026.pdf",
+     "sha256": "f1eb270a97dffaca61f931e5141306ba226072dd4f3a20ffd969893e891c61f1"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lc-2026-00047",
+   "unit": "manhuacu",
+   "short": "LC 47/2026",
+   "title": "Lei Complementar nº 47, de 23 de julho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7203",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 17,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7203/lei_complementar_n_47_de_30_de_julho_de_2026.pdf",
+     "sha256": "f83b883ad92e0007f3c7bdab33dab4549f9faae28d834dd31ebff2875f5bc172"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04649",
+   "unit": "manhuacu",
+   "short": "Lei 4649/2026",
+   "title": "Lei nº 4.649, de 22 de julho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7194",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 5,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7194/lm_4649.pdf",
+     "sha256": "af84bd3b7fa6823e186605f3ed4a22d5c43c311782be6cd95c773450598b8c0b"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04648",
+   "unit": "manhuacu",
+   "short": "Lei 4648/2026",
+   "title": "Lei nº 4.648, de 22 de julho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7193",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 10,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7193/lm_4648.pdf",
+     "sha256": "0af4ccb5242f9f3bc4a5651f7606428d1c64ea55487425eebaf53f17d1b08eb6"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04647",
+   "unit": "manhuacu",
+   "short": "Lei 4647/2026",
+   "title": "Lei nº 4.647, de 22 de julho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7192",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 5,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7192/lm_4647.pdf",
+     "sha256": "8823a0b1b6dcd4104929f5a6a4a5320339d81029c5530745d5f30bfe681a9436"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04646",
+   "unit": "manhuacu",
+   "short": "Lei 4646/2026",
+   "title": "Lei nº 4.646, de 22 de julho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7191",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 4,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7191/lm_4646.pdf",
+     "sha256": "0e3e0df80a40ce3d3fad63d3ca1992d6e1894925019440ce9f411ff3abab1ed7"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04645",
+   "unit": "manhuacu",
+   "short": "Lei 4645/2026",
+   "title": "Lei nº 4.645, de 22 de julho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7190",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 7,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7190/lm_4645.pdf",
+     "sha256": "1374666fd1e491c8f9a00fbdcc70054de74eda3bb28887bf616acbf02cc88bd7"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04644",
+   "unit": "manhuacu",
+   "short": "Lei 4644/2026",
+   "title": "Lei nº 4.644, de 22 de julho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7189",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 7,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7189/lm_4644.pdf",
+     "sha256": "47e80e2cd9f949ee025ca62008abcaf5ec517503235c098ad525f4555c4558ff"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04643",
+   "unit": "manhuacu",
+   "short": "Lei 4643/2026",
+   "title": "Lei nº 4.643, de 22 de julho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7188",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 7,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7188/lm_4643.pdf",
+     "sha256": "e3365f0d28669847f3edc8e817d1c2f4a9d1f2ace37091677c78f10630eb1910"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04642",
+   "unit": "manhuacu",
+   "short": "Lei 4642/2026",
+   "title": "Lei nº 4.642, de 14 de julho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7187",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 9,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7187/lm_4642.pdf",
+     "sha256": "03cc6c6fe1661830ced02856b67f0019797159b1eb699cdde1141b7f98237cee"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04641",
+   "unit": "manhuacu",
+   "short": "Lei 4641/2026",
+   "title": "Lei nº 4.641, de 14 de julho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7186",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 4,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7186/lm_4641.pdf",
+     "sha256": "ba7c071c9a4c87504c656f9b1235cf4d2abcd58c5a262a6c10c61c3fb041762a"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04640",
+   "unit": "manhuacu",
+   "short": "Lei 4640/2026",
+   "title": "Lei nº 4.640, de 14 de julho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7185",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 3,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7185/lm_4640.pdf",
+     "sha256": "c1f6b41a1a1b9c17c93d92d2785c1f08414666b614fd7ea4ac6b99415b8c21f7"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04637",
+   "unit": "manhuacu",
+   "short": "Lei 4637/2026",
+   "title": "Lei nº 4.637, de 19 de junho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7162",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 5,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7162/lm_4637.pdf",
+     "sha256": "b65e44bb21a3ff72bc67ecb49409723a83e68e2d4ef4323dc0a7fdb9b00b4be7"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04636",
+   "unit": "manhuacu",
+   "short": "Lei 4636/2026",
+   "title": "Lei nº 4.636, de 19 de junho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7161",
+   "versions": [
+    {
+     "from": "2026-06-20",
+     "units": 4,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7161/lm_4636.pdf",
+     "sha256": "4605e982c45a6c61afca2f49492cf2e33fa89e0442725143b0450af356faf94c"
+    }
+   ]
+  },
+  {
+   "slug": "manhuacu/lei-2026-04635",
+   "unit": "manhuacu",
+   "short": "Lei 4635/2026",
+   "title": "Lei nº 4.635, de 19 de junho de 2026",
+   "url": "https://sapl.manhuacu.mg.leg.br/norma/7160",
+   "versions": [
+    {
+     "from": "2026-06-20",
+     "units": 4,
+     "source_url": "https://sapl.manhuacu.mg.leg.br/media/sapl/public/normajuridica/2026/7160/lm_4635.pdf",
+     "sha256": "8eb0bbd2056005732a9ad4315a2c161c6c030ab33934c33d67d2e63430cc04a5"
+    }
+   ]
+  },
+  {
    "slug": "para-de-minas/lei-2021-06552",
    "unit": "para-de-minas",
    "short": "Lei 6552/2021",
@@ -1273,6 +2593,171 @@
      "units": 3,
      "source_url": "https://sapl.parademinas.mg.leg.br/media/sapl/public/normajuridica/2021/4368/lo_6550_2021.pdf",
      "sha256": "95ac8f99afe46c4aa05a8064f9afc1d78c25ef567afb54f9f873baf9a5681515"
+    }
+   ]
+  },
+  {
+   "slug": "patrocinio/lc-2026-00288",
+   "unit": "patrocinio",
+   "short": "LC 288/2026",
+   "title": "Lei Complementar nº 288, de 10 de setembro de 2026",
+   "url": "https://sapl.patrocinio.mg.leg.br/norma/3138",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 51,
+     "source_url": "https://sapl.patrocinio.mg.leg.br/media/sapl/public/normajuridica/2026/3138/lei_complementar_288.pdf",
+     "sha256": "c35334a805f586ae800085802b8a8a0976028bef46a6a1c80e48d78ee040134c"
+    }
+   ]
+  },
+  {
+   "slug": "patrocinio/lc-2026-00287",
+   "unit": "patrocinio",
+   "short": "LC 287/2026",
+   "title": "Lei Complementar nº 287, de 9 de setembro de 2026",
+   "url": "https://sapl.patrocinio.mg.leg.br/norma/3137",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 51,
+     "source_url": "https://sapl.patrocinio.mg.leg.br/media/sapl/public/normajuridica/2026/3137/lei_complementar_287.pdf",
+     "sha256": "9874b502624068b3f8ea936cc79c985415c302678571352e83dfd0ed55b94e38"
+    }
+   ]
+  },
+  {
+   "slug": "patrocinio/lc-2026-00285",
+   "unit": "patrocinio",
+   "short": "LC 285/2026",
+   "title": "Lei Complementar nº 285, de 16 de julho de 2026",
+   "url": "https://sapl.patrocinio.mg.leg.br/norma/3122",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 10,
+     "source_url": "https://sapl.patrocinio.mg.leg.br/media/sapl/public/normajuridica/2026/3122/lei_complementar_285.pdf",
+     "sha256": "297396cd202e73e4fb3633a9f6eb55bc51e07101617c7eb13e49ab0da3a6d613"
+    }
+   ]
+  },
+  {
+   "slug": "patrocinio/lc-2026-00284",
+   "unit": "patrocinio",
+   "short": "LC 284/2026",
+   "title": "Lei Complementar nº 284, de 14 de julho de 2026",
+   "url": "https://sapl.patrocinio.mg.leg.br/norma/3121",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 5,
+     "source_url": "https://sapl.patrocinio.mg.leg.br/media/sapl/public/normajuridica/2026/3121/lei_complementar_284.pdf",
+     "sha256": "a0dee510537c1a317e7ae4cf4a55dafe7989663a6de0d68fd074aa44c1f3511e"
+    }
+   ]
+  },
+  {
+   "slug": "patrocinio/lc-2026-00283",
+   "unit": "patrocinio",
+   "short": "LC 283/2026",
+   "title": "Lei Complementar nº 283, de 28 de maio de 2026",
+   "url": "https://sapl.patrocinio.mg.leg.br/norma/3120",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 4,
+     "source_url": "https://sapl.patrocinio.mg.leg.br/media/sapl/public/normajuridica/2026/3120/lei_complementar_283.pdf",
+     "sha256": "8187594de7da521c577e7c2cb9c5733a75e76fe7f82e2007ed10391a44c8af7f"
+    }
+   ]
+  },
+  {
+   "slug": "patrocinio/lc-2026-00282",
+   "unit": "patrocinio",
+   "short": "LC 282/2026",
+   "title": "Lei Complementar nº 282, de 29 de abril de 2026",
+   "url": "https://sapl.patrocinio.mg.leg.br/norma/3001",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 6,
+     "source_url": "https://sapl.patrocinio.mg.leg.br/media/sapl/public/normajuridica/2026/3001/lei_complementar_282.pdf",
+     "sha256": "7897e1112923bb86646a7c36aab5cb823468b95b747fbdc95721d620f13de83d"
+    }
+   ]
+  },
+  {
+   "slug": "patrocinio/lc-2026-00280",
+   "unit": "patrocinio",
+   "short": "LC 280/2026",
+   "title": "Lei Complementar nº 280, de 1 de abril de 2026",
+   "url": "https://sapl.patrocinio.mg.leg.br/norma/2999",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 29,
+     "source_url": "https://sapl.patrocinio.mg.leg.br/media/sapl/public/normajuridica/2026/2999/lei_complementar_280.pdf",
+     "sha256": "4cc5a6e4bf2e890a80e498b05f2601bd37e079a07406b587c3f44562a7efc6b8"
+    }
+   ]
+  },
+  {
+   "slug": "patrocinio/lc-2026-00278",
+   "unit": "patrocinio",
+   "short": "LC 278/2026",
+   "title": "Lei Complementar nº 278, de 13 de março de 2026",
+   "url": "https://sapl.patrocinio.mg.leg.br/norma/2997",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 23,
+     "source_url": "https://sapl.patrocinio.mg.leg.br/media/sapl/public/normajuridica/2026/2997/lei_complementar_278.pdf",
+     "sha256": "8fc194eec731f1b233e203f79cfe495ac27e80c704f394eb1a0f29515fe73382"
+    }
+   ]
+  },
+  {
+   "slug": "patrocinio/lc-2026-00277",
+   "unit": "patrocinio",
+   "short": "LC 277/2026",
+   "title": "Lei Complementar nº 277, de 13 de março de 2026",
+   "url": "https://sapl.patrocinio.mg.leg.br/norma/2996",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 3,
+     "source_url": "https://sapl.patrocinio.mg.leg.br/media/sapl/public/normajuridica/2026/2996/lei_complementar_277.pdf",
+     "sha256": "7341ae661fd84c965ee46c41e6fcc4347cced8e02a136192acaa5fb24a5d5bc5"
+    }
+   ]
+  },
+  {
+   "slug": "patrocinio/lc-2026-00276",
+   "unit": "patrocinio",
+   "short": "LC 276/2026",
+   "title": "Lei Complementar nº 276, de 3 de março de 2026",
+   "url": "https://sapl.patrocinio.mg.leg.br/norma/2995",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 22,
+     "source_url": "https://sapl.patrocinio.mg.leg.br/media/sapl/public/normajuridica/2026/2995/lei_complementar_276.pdf",
+     "sha256": "3495112d2cf39f87a85c4aed78bfc80ec48a905eb17be7853fa404f5f61b7225"
+    }
+   ]
+  },
+  {
+   "slug": "patrocinio/lc-2026-00275",
+   "unit": "patrocinio",
+   "short": "LC 275/2026",
+   "title": "Lei Complementar nº 275, de 3 de março de 2026",
+   "url": "https://sapl.patrocinio.mg.leg.br/norma/2994",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 5,
+     "source_url": "https://sapl.patrocinio.mg.leg.br/media/sapl/public/normajuridica/2026/2994/lei_complementar_275.pdf",
+     "sha256": "c03255e3f5bdbfcfa006a6e92b8cc31fd68d982ba3df71d95ab22c840c0528d9"
     }
    ]
   },
@@ -1603,6 +3088,651 @@
      "units": 8,
      "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7034/lei_municipal_no_3.919_de_13_de_marco_de_2026.pdf",
      "sha256": "6572b6e96c8a349836631108b5352e235fd33ea401a043a0f65c9bf7e88bc64f"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04980",
+   "unit": "ponte-nova",
+   "short": "Lei 4980/2026",
+   "title": "Lei nº 4.980, de 2 de outubro de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9654",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 8,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9654/lei_4.980.2026-consolidada.pdf",
+     "sha256": "c7c6ce2aeecad839920c8fd8703fa866f38226d987761b9333c8c10a17ffced8"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lc-2026-04979",
+   "unit": "ponte-nova",
+   "short": "LC 4979/2026",
+   "title": "Lei Complementar nº 4.979, de 29 de setembro de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9643",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 5,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9643/lei_4.979.2026-consolidada.pdf",
+     "sha256": "b12f586607d41960564fe2a690f40771d87eee4d80df834b9095c5e90b4f7f89"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lc-2026-04978",
+   "unit": "ponte-nova",
+   "short": "LC 4978/2026",
+   "title": "Lei Complementar nº 4.978, de 24 de setembro de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9639",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 15,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9639/lei_4.978.2026-consolidada.pdf",
+     "sha256": "10c440d941e133503966853ec04e69643414604d4092c49f489bccec8d102d3b"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lc-2026-04977",
+   "unit": "ponte-nova",
+   "short": "LC 4977/2026",
+   "title": "Lei Complementar nº 4.977, de 23 de setembro de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9625",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 4,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9625/lei_4.977.2026-consolidada.pdf",
+     "sha256": "244c01ae4d148e54988330af51c2cc8171855764883bbfcdf2d4067338564dbd"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lc-2026-04976",
+   "unit": "ponte-nova",
+   "short": "LC 4976/2026",
+   "title": "Lei Complementar nº 4.976, de 17 de setembro de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9638",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 3,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9638/lei_4.976.2026-consolidada.pdf",
+     "sha256": "6f873c5b498edb1e43a04a69b27830400cda23edc0f30a503092011e158a55e2"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04974",
+   "unit": "ponte-nova",
+   "short": "Lei 4974/2026",
+   "title": "Lei nº 4.974, de 14 de setembro de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9607",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 7,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9607/lei_4.974.2026-consolidada.pdf",
+     "sha256": "ae70a5b40d29c7ecbf74a86b8796eec3d1d26ab356494757a368b012527c6fc8"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04973",
+   "unit": "ponte-nova",
+   "short": "Lei 4973/2026",
+   "title": "Lei nº 4.973, de 14 de setembro de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9606",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 6,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9606/lei_4.973.2026-consolidada.pdf",
+     "sha256": "858b63f135988ec61f1d13cb1cb7f230e221b8e24a20e7d07078d3b22d35789d"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04971",
+   "unit": "ponte-nova",
+   "short": "Lei 4971/2026",
+   "title": "Lei nº 4.971, de 8 de setembro de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9604",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9604/lei_4.971.2026-consolidada.pdf",
+     "sha256": "6f02043fe95661c20f5942b7a19c88918fc112712b3d72a9021b730d75bbac8c"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04970",
+   "unit": "ponte-nova",
+   "short": "Lei 4970/2026",
+   "title": "Lei nº 4.970, de 25 de agosto de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9588",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 14,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9588/lei_4.970.2026-consolidada.pdf",
+     "sha256": "0ff3faa23010836d9c45d6e77c173b5bc0a56d8cb43b56e6d5e190cd205b1ce6"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04969",
+   "unit": "ponte-nova",
+   "short": "Lei 4969/2026",
+   "title": "Lei nº 4.969, de 21 de agosto de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9603",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 4,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9603/lei_4.969.2026-consolidada.pdf",
+     "sha256": "f315f53c7b3d600914857db3365fd48bf669a8f241ad5acb455fc812592a9d0f"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04968",
+   "unit": "ponte-nova",
+   "short": "Lei 4968/2026",
+   "title": "Lei nº 4.968, de 27 de julho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9502",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 4,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9502/lei_4.968.2026-consolidada.pdf",
+     "sha256": "fc301631d56a355a2ce70d04b1169e27b4d5663f37a9b39bc73f2bca33835160"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04967",
+   "unit": "ponte-nova",
+   "short": "Lei 4967/2026",
+   "title": "Lei nº 4.967, de 17 de julho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9500",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 12,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9500/lei_4.967.2026-consolidada.pdf",
+     "sha256": "b08de77e51363567e6f7e20f133bf4b6aaed5524e81109aad191e970b0266e63"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lc-2026-04966",
+   "unit": "ponte-nova",
+   "short": "LC 4966/2026",
+   "title": "Lei Complementar nº 4.966, de 16 de julho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9497",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 16,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9497/lei_4.966.2026-consolidada.pdf",
+     "sha256": "5fb798c12dcfaa380dbfcc957ba82a347525e5c844b8d1e7980740abd74d5c36"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lc-2026-04965",
+   "unit": "ponte-nova",
+   "short": "LC 4965/2026",
+   "title": "Lei Complementar nº 4.965, de 16 de julho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9503",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 5,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9503/lei_4.965.2026-consolidada.pdf",
+     "sha256": "3b8ea55eda183bfad3001dd141be5d5b1ab543030bab66f648826b9a48f2dfdc"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04964",
+   "unit": "ponte-nova",
+   "short": "Lei 4964/2026",
+   "title": "Lei nº 4.964, de 16 de julho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9496",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 53,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9496/lei_4.964.2026-consolidada.pdf",
+     "sha256": "99f6c58babaf6fc81dcd327e02a966607ceb21ca4506de9be54892d2dbe48ce3"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04963",
+   "unit": "ponte-nova",
+   "short": "Lei 4963/2026",
+   "title": "Lei nº 4.963, de 15 de julho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9495",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 7,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9495/lei_4.963.2026-consolidada.pdf",
+     "sha256": "b649f42752c8270c5050518bbb7fe34e57404b9cb8ada6aa21381730ca7ea674"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04962",
+   "unit": "ponte-nova",
+   "short": "Lei 4962/2026",
+   "title": "Lei nº 4.962, de 15 de julho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9494",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 7,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9494/lei_4.962.2026-consolidada.pdf",
+     "sha256": "bd1172c724b7f0dc690387224795cb9a2e98700f6e2907a5059cf37b20d1b2ae"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04961",
+   "unit": "ponte-nova",
+   "short": "Lei 4961/2026",
+   "title": "Lei nº 4.961, de 15 de julho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9493",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 7,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9493/lei_4.961.2026-consolidada.pdf",
+     "sha256": "440f714ad05f0270e2c68cee1f16602a164ef28781dcf49a4afb3a5518ac965e"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04960",
+   "unit": "ponte-nova",
+   "short": "Lei 4960/2026",
+   "title": "Lei nº 4.960, de 14 de julho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9465",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 3,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9465/lei_4.960.2026-consolidada.pdf",
+     "sha256": "2437a8e85fbfb2b4d71a16ca0d1af70d0c8882773ae58a1fec9ae3d53e6e200e"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04959",
+   "unit": "ponte-nova",
+   "short": "Lei 4959/2026",
+   "title": "Lei nº 4.959, de 14 de julho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9464",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 7,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9464/lei_4.959.2026-consolidada.pdf",
+     "sha256": "84f04a48d40067a8d1dfaa103e57a06e505d02ca96f2bda34c9b33b1ca754c04"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04958",
+   "unit": "ponte-nova",
+   "short": "Lei 4958/2026",
+   "title": "Lei nº 4.958, de 14 de julho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9463",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 8,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9463/lei_4.958.2026-consolidada.pdf",
+     "sha256": "7316f1ac6425397c53b7caee1a5e79f5166ca8592f8ebd95cf9145a05f421566"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04956",
+   "unit": "ponte-nova",
+   "short": "Lei 4956/2026",
+   "title": "Lei nº 4.956, de 3 de julho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9356",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 8,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9356/lei_4.956.2026-consolidada.pdf",
+     "sha256": "3440bdcd8592edac4c96a0bb4052164b5b2d632490838b61622d38031bf1bf52"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04955",
+   "unit": "ponte-nova",
+   "short": "Lei 4955/2026",
+   "title": "Lei nº 4.955, de 3 de julho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9355",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 4,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9355/lei_4.955.2026-consolidada.pdf",
+     "sha256": "b4d653a90cb04ab34b05c1a1a3d841045f6a1669703054c755bc4ee38ed224a6"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04954",
+   "unit": "ponte-nova",
+   "short": "Lei 4954/2026",
+   "title": "Lei nº 4.954, de 30 de junho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9402",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 7,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9402/lei_4.954.2026-consolidada.pdf",
+     "sha256": "a9ba489a120766a561abd77580a95e6705b40e2f3e2c715c2a7a7923b282448c"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04953",
+   "unit": "ponte-nova",
+   "short": "Lei 4953/2026",
+   "title": "Lei nº 4.953, de 30 de junho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9400",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 7,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9400/lei_4.953.2026-consolidada.pdf",
+     "sha256": "408e6b9d020b589d2e41c6d41b923be7b13ca961f05b33cdb071ba3889082637"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04952",
+   "unit": "ponte-nova",
+   "short": "Lei 4952/2026",
+   "title": "Lei nº 4.952, de 30 de junho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9399",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 7,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9399/lei_4.952.2026-consolidada.pdf",
+     "sha256": "7d8760977600f48980dbe7541a5bb0f499e64f1f50ea3015f2dc39125a096753"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04951",
+   "unit": "ponte-nova",
+   "short": "Lei 4951/2026",
+   "title": "Lei nº 4.951, de 30 de junho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9398",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 7,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9398/lei_4.951.2026-consolidada.pdf",
+     "sha256": "a5a2c86fdf9a29b8b55577a291a88b9b4513ce9d66c82f3717c4cc2d0c50a097"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04950",
+   "unit": "ponte-nova",
+   "short": "Lei 4950/2026",
+   "title": "Lei nº 4.950, de 30 de junho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9397",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 7,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9397/lei_4.950.2026-consolidada.pdf",
+     "sha256": "20f1fe39d730fd788765577bb3f7177d59099f23b9131e991c4916512eb85806"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04949",
+   "unit": "ponte-nova",
+   "short": "Lei 4949/2026",
+   "title": "Lei nº 4.949, de 30 de junho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9401",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 7,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9401/lei_4.949.2026-consolidada.pdf",
+     "sha256": "d46b7ae11dbf7e0210b56dac904d5a7e68cf23af4b50e406320db1c4b795b793"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04948",
+   "unit": "ponte-nova",
+   "short": "Lei 4948/2026",
+   "title": "Lei nº 4.948, de 30 de junho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9392",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 4,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9392/lei_4.948.2026-consolidada.pdf",
+     "sha256": "c04133a8892fa170d059e11a89d93ced31068fb5c7c3263e184e65829331fea6"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04947",
+   "unit": "ponte-nova",
+   "short": "Lei 4947/2026",
+   "title": "Lei nº 4.947, de 29 de junho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9391",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 7,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9391/lei_4.947.2026-consolidada.pdf",
+     "sha256": "21aa3b91fab8feca1949ed19715d919482ea5925263147ec86e148dbc812e63b"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04946",
+   "unit": "ponte-nova",
+   "short": "Lei 4946/2026",
+   "title": "Lei nº 4.946, de 24 de junho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9327",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 5,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9327/lei_4.946.2026-consolidada.pdf",
+     "sha256": "c7de7a4d48b6f1394ccc2b8960ff532d3fd9d3776fc309b7ce6760a1029b81e8"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04945",
+   "unit": "ponte-nova",
+   "short": "Lei 4945/2026",
+   "title": "Lei nº 4.945, de 22 de junho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9326",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 6,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9326/lei_4.945.2026-consolidada.pdf",
+     "sha256": "3ad166dc54d628c904318c9ad3317995a0ee271d008a289bb97ce78e95a82c63"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04943",
+   "unit": "ponte-nova",
+   "short": "Lei 4943/2026",
+   "title": "Lei nº 4.943, de 8 de junho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9279",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 13,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9279/lei_4.943.2026-consolidada.pdf",
+     "sha256": "6daaa4d8c10e3a6f1d02ca7f3100b499f7cc767a3368669d3ca116c0a28ca7a2"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04942",
+   "unit": "ponte-nova",
+   "short": "Lei 4942/2026",
+   "title": "Lei nº 4.942, de 8 de junho de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9278",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 6,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9278/lei_4.942.2026-consolidada.pdf",
+     "sha256": "9c0cec1963ff1655401c1b13906fda3ae370e777dec56bb47fdf670c079d5c38"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04941",
+   "unit": "ponte-nova",
+   "short": "Lei 4941/2026",
+   "title": "Lei nº 4.941, de 29 de maio de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9265",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 13,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9265/lei_4.941.2026-consolidada.pdf",
+     "sha256": "a548051c6446fbcc1d48147aff13cf48f03fa0d9c3fe378c44e1e47eb87e8622"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04940",
+   "unit": "ponte-nova",
+   "short": "Lei 4940/2026",
+   "title": "Lei nº 4.940, de 29 de maio de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9264",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 6,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9264/lei_4.940.2026-consolidada.pdf",
+     "sha256": "751da546df6834720bef7de05eee6288bd833277d4b96bcdd84af04414b11e9c"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04939",
+   "unit": "ponte-nova",
+   "short": "Lei 4939/2026",
+   "title": "Lei nº 4.939, de 26 de maio de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9254",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 6,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9254/lei_4.939.2026-consolidada.pdf",
+     "sha256": "a9f545fbdad06f814c55658b2caa3d4fc063449c98288559cec3d36c3e41c9fc"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lc-2026-04938",
+   "unit": "ponte-nova",
+   "short": "LC 4938/2026",
+   "title": "Lei Complementar nº 4.938, de 26 de maio de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9253",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 3,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9253/lei_4.938.2026-consolidada.pdf",
+     "sha256": "fefdfacd16bb9b255883e142d5e8b5343757545728945ac2c53940916d5052ff"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04937",
+   "unit": "ponte-nova",
+   "short": "Lei 4937/2026",
+   "title": "Lei nº 4.937, de 20 de maio de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9204",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 4,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9204/lei_4.937.2026-consolidada.pdf",
+     "sha256": "82470c64951216b09f53a12342a6d48c93a07c35c65ea4e6f4e46ab15353b52b"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04936",
+   "unit": "ponte-nova",
+   "short": "Lei 4936/2026",
+   "title": "Lei nº 4.936, de 20 de maio de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9203",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 3,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9203/lei_4.936.2026-consolidada.pdf",
+     "sha256": "4ab2cc6519d428746ac8ae0f1ab93ad56fcca0c5e42c9e4958d9bf0ef219e53d"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lei-2026-04935",
+   "unit": "ponte-nova",
+   "short": "Lei 4935/2026",
+   "title": "Lei nº 4.935, de 20 de maio de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9202",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 3,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9202/lei_4.935.2026-consolidada.pdf",
+     "sha256": "42535fe879bb7d1cf0d815ce8b044f860f202a4d1169adac601c591ef72ff16d"
+    }
+   ]
+  },
+  {
+   "slug": "ponte-nova/lc-2026-04934",
+   "unit": "ponte-nova",
+   "short": "LC 4934/2026",
+   "title": "Lei Complementar nº 4.934, de 19 de maio de 2026",
+   "url": "https://sapl.pontenova.mg.leg.br/norma/9198",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 5,
+     "source_url": "https://sapl.pontenova.mg.leg.br/media/sapl/public/normajuridica/2026/9198/lei_4.934.2026-consolidada.pdf",
+     "sha256": "b962a49ae077706d244747234fe0790346d4696ae11bfe715f1da9bff4784743"
     }
    ]
   },

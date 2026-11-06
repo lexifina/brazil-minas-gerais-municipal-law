@@ -1,5 +1,15 @@
 {
  "parts": {
+  "bom-despacho--30-leis-001.json": {
+   "acts": [
+    "bom-despacho/lei-2026-03111",
+    "bom-despacho/lei-2026-03112",
+    "bom-despacho/lei-2026-03113",
+    "bom-despacho/lei-2026-03115",
+    "bom-despacho/lei-2026-03116"
+   ],
+   "sha256": "2492e86e42430ca5622c2a7946fb123119e8be82aeacc0e2e01155075e1b5bd3"
+  },
   "contagem--40-ocr-001.json": {
    "acts": [
     "contagem/lc-2026-00405",
@@ -102,6 +112,104 @@
    ],
    "sha256": "31737e3b46531822c913322c7b8cffbbb9d541a76e25ef55f2846acfae32fee5"
   },
+  "januaria--30-leis-001.json": {
+   "acts": [
+    "januaria/lc-2026-00169",
+    "januaria/lc-2026-00170"
+   ],
+   "sha256": "d685fa03fc18072b5a8784828b97b4c2283b9535d05a191d9c3733a7e8207866"
+  },
+  "lagoa-da-prata--30-leis-001.json": {
+   "acts": [
+    "lagoa-da-prata/lc-2026-00325",
+    "lagoa-da-prata/lc-2026-00326",
+    "lagoa-da-prata/lc-2026-00327",
+    "lagoa-da-prata/lc-2026-00328",
+    "lagoa-da-prata/lc-2026-00329",
+    "lagoa-da-prata/lc-2026-00330",
+    "lagoa-da-prata/lei-2026-04454",
+    "lagoa-da-prata/lei-2026-04455",
+    "lagoa-da-prata/lei-2026-04456",
+    "lagoa-da-prata/lei-2026-04457",
+    "lagoa-da-prata/lei-2026-04458",
+    "lagoa-da-prata/lei-2026-04459",
+    "lagoa-da-prata/lei-2026-04460",
+    "lagoa-da-prata/lei-2026-04461",
+    "lagoa-da-prata/lei-2026-04462",
+    "lagoa-da-prata/lei-2026-04463",
+    "lagoa-da-prata/lei-2026-04464",
+    "lagoa-da-prata/lei-2026-04465",
+    "lagoa-da-prata/lei-2026-04466",
+    "lagoa-da-prata/lei-2026-04467",
+    "lagoa-da-prata/lei-2026-04468",
+    "lagoa-da-prata/lei-2026-04469",
+    "lagoa-da-prata/lei-2026-04470",
+    "lagoa-da-prata/lei-2026-04471",
+    "lagoa-da-prata/lei-2026-04472",
+    "lagoa-da-prata/lei-2026-04473",
+    "lagoa-da-prata/lei-2026-04474",
+    "lagoa-da-prata/lei-2026-04475",
+    "lagoa-da-prata/lei-2026-04476",
+    "lagoa-da-prata/lei-2026-04477",
+    "lagoa-da-prata/lei-2026-04478",
+    "lagoa-da-prata/lei-2026-04479",
+    "lagoa-da-prata/lei-2026-04480",
+    "lagoa-da-prata/lei-2026-04481",
+    "lagoa-da-prata/lei-2026-04482",
+    "lagoa-da-prata/lei-2026-04484",
+    "lagoa-da-prata/lei-2026-04485",
+    "lagoa-da-prata/lei-2026-04486",
+    "lagoa-da-prata/lei-2026-04487",
+    "lagoa-da-prata/lei-2026-04488",
+    "lagoa-da-prata/lei-2026-04489",
+    "lagoa-da-prata/lei-2026-04490"
+   ],
+   "sha256": "e8fec114373184ed09c1225a4052792a0633929645c98ba1deeabdceca6981dc"
+  },
+  "manhuacu--30-leis-001.json": {
+   "acts": [
+    "manhuacu/lc-2026-00047",
+    "manhuacu/lc-2026-00048",
+    "manhuacu/lc-2026-00049",
+    "manhuacu/lc-2026-00051",
+    "manhuacu/lei-2026-04635",
+    "manhuacu/lei-2026-04636",
+    "manhuacu/lei-2026-04637",
+    "manhuacu/lei-2026-04640",
+    "manhuacu/lei-2026-04641",
+    "manhuacu/lei-2026-04642",
+    "manhuacu/lei-2026-04643",
+    "manhuacu/lei-2026-04644",
+    "manhuacu/lei-2026-04645",
+    "manhuacu/lei-2026-04646",
+    "manhuacu/lei-2026-04647",
+    "manhuacu/lei-2026-04648",
+    "manhuacu/lei-2026-04649",
+    "manhuacu/lei-2026-04651",
+    "manhuacu/lei-2026-04652",
+    "manhuacu/lei-2026-04653",
+    "manhuacu/lei-2026-04655",
+    "manhuacu/lei-2026-04656",
+    "manhuacu/lei-2026-04657",
+    "manhuacu/lei-2026-04658",
+    "manhuacu/lei-2026-04659",
+    "manhuacu/lei-2026-04660",
+    "manhuacu/lei-2026-04661",
+    "manhuacu/lei-2026-04662",
+    "manhuacu/lei-2026-04663",
+    "manhuacu/lei-2026-04664",
+    "manhuacu/lei-2026-04665",
+    "manhuacu/lei-2026-04666",
+    "manhuacu/lei-2026-04667",
+    "manhuacu/lei-2026-04668",
+    "manhuacu/lei-2026-04669",
+    "manhuacu/lei-2026-04670",
+    "manhuacu/lei-2026-04671",
+    "manhuacu/lei-2026-04672",
+    "manhuacu/lei-2026-04673"
+   ],
+   "sha256": "ce16fcf410f0289770675831d0bd50d051f2117fc05733898959baba4fab0a46"
+  },
   "para-de-minas--30-leis-001.json": {
    "acts": [
     "para-de-minas/lei-2021-06550",
@@ -109,6 +217,22 @@
     "para-de-minas/lei-2021-06552"
    ],
    "sha256": "53de31b7446506dd5b454ac0ecb0f7ffa804fdd78ca5aee4a00bbacea2e86b92"
+  },
+  "patrocinio--30-leis-001.json": {
+   "acts": [
+    "patrocinio/lc-2026-00275",
+    "patrocinio/lc-2026-00276",
+    "patrocinio/lc-2026-00277",
+    "patrocinio/lc-2026-00278",
+    "patrocinio/lc-2026-00280",
+    "patrocinio/lc-2026-00282",
+    "patrocinio/lc-2026-00283",
+    "patrocinio/lc-2026-00284",
+    "patrocinio/lc-2026-00285",
+    "patrocinio/lc-2026-00287",
+    "patrocinio/lc-2026-00288"
+   ],
+   "sha256": "c25e724cc387c22b958d791528ed96c84281ccdc8f942fed0432b90b0ee5d207"
   },
   "pedro-leopoldo--30-leis-001.json": {
    "acts": [
@@ -136,6 +260,54 @@
     "pedro-leopoldo/lei-2026-03986"
    ],
    "sha256": "7ded3461041dcfd70a85f4fd606035a30bb6302b91f54cc417359915f29cdc9d"
+  },
+  "ponte-nova--30-leis-001.json": {
+   "acts": [
+    "ponte-nova/lc-2026-04934",
+    "ponte-nova/lc-2026-04938",
+    "ponte-nova/lc-2026-04965",
+    "ponte-nova/lc-2026-04966",
+    "ponte-nova/lc-2026-04976",
+    "ponte-nova/lc-2026-04977",
+    "ponte-nova/lc-2026-04978",
+    "ponte-nova/lc-2026-04979",
+    "ponte-nova/lei-2026-04935",
+    "ponte-nova/lei-2026-04936",
+    "ponte-nova/lei-2026-04937",
+    "ponte-nova/lei-2026-04939",
+    "ponte-nova/lei-2026-04940",
+    "ponte-nova/lei-2026-04941",
+    "ponte-nova/lei-2026-04942",
+    "ponte-nova/lei-2026-04943",
+    "ponte-nova/lei-2026-04945",
+    "ponte-nova/lei-2026-04946",
+    "ponte-nova/lei-2026-04947",
+    "ponte-nova/lei-2026-04948",
+    "ponte-nova/lei-2026-04949",
+    "ponte-nova/lei-2026-04950",
+    "ponte-nova/lei-2026-04951",
+    "ponte-nova/lei-2026-04952",
+    "ponte-nova/lei-2026-04953",
+    "ponte-nova/lei-2026-04954",
+    "ponte-nova/lei-2026-04955",
+    "ponte-nova/lei-2026-04956",
+    "ponte-nova/lei-2026-04958",
+    "ponte-nova/lei-2026-04959",
+    "ponte-nova/lei-2026-04960",
+    "ponte-nova/lei-2026-04961",
+    "ponte-nova/lei-2026-04962",
+    "ponte-nova/lei-2026-04963",
+    "ponte-nova/lei-2026-04964",
+    "ponte-nova/lei-2026-04967",
+    "ponte-nova/lei-2026-04968",
+    "ponte-nova/lei-2026-04969",
+    "ponte-nova/lei-2026-04970",
+    "ponte-nova/lei-2026-04971",
+    "ponte-nova/lei-2026-04973",
+    "ponte-nova/lei-2026-04974",
+    "ponte-nova/lei-2026-04980"
+   ],
+   "sha256": "ae8c279b05ae956f5b94fe56badfbe2a7030934f43cf5942cba4f7e045060baf"
   },
   "timoteo--30-leis-001.json": {
    "acts": [

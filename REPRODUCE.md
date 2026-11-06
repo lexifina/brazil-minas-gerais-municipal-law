@@ -13,6 +13,12 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Câmara Municipal de Timóteo, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.timoteo.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Timóteo, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.timoteo.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Frutal, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.frutal.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Frutal, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.frutal.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Itabirito, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.itabirito.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Itabirito, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.itabirito.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Bom Despacho, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.bomdespacho.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Bom Despacho, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.bomdespacho.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Januária, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.januaria.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Januária, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.januaria.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Lagoa da Prata, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.lagoadaprata.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Lagoa da Prata, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lagoadaprata.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Manhuaçu, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.manhuacu.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Manhuaçu, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.manhuacu.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Patrocínio, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.patrocinio.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Patrocínio, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.patrocinio.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Ponte Nova, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.pontenova.mg.leg.br/norma/pesquisar> | 2026-11-06 | Texts: Câmara Municipal de Ponte Nova, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.pontenova.mg.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -20,6 +26,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
+| `bom-despacho/lei-2026-03116` | Lei nº 3.116, de 24 de setembro de 2026 | 1 | 2026-09-24 to 2026-09-24 |
+| `bom-despacho/lei-2026-03115` | Lei nº 3.115, de 24 de setembro de 2026 | 1 | 2026-09-24 to 2026-09-24 |
+| `bom-despacho/lei-2026-03113` | Lei nº 3.113, de 24 de setembro de 2026 | 1 | 2026-09-24 to 2026-09-24 |
+| `bom-despacho/lei-2026-03112` | Lei nº 3.112, de 24 de setembro de 2026 | 1 | 2026-09-24 to 2026-09-24 |
+| `bom-despacho/lei-2026-03111` | Lei nº 3.111, de 17 de julho de 2026 | 1 | 2026-07-17 to 2026-07-17 |
 | `contagem/lei-2026-05775` | Lei nº 5.775, de 5 de outubro de 2026 | 1 | 2026-10-05 to 2026-10-05 |
 | `contagem/lei-2026-05774` | Lei nº 5.774, de 5 de outubro de 2026 | 1 | 2026-10-05 to 2026-10-05 |
 | `contagem/lei-2026-05772` | Lei nº 5.772, de 23 de setembro de 2026 | 1 | 2026-09-23 to 2026-09-23 |
@@ -102,9 +113,103 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `itabirito/lei-2026-04642` | Lei nº 4.642, de 21 de setembro de 2026 | 1 | 2026-09-21 to 2026-09-21 |
 | `itabirito/lei-2026-04641` | Lei nº 4.641, de 15 de setembro de 2026 | 1 | 2026-09-15 to 2026-09-15 |
 | `itabirito/lei-2026-04640` | Lei nº 4.640, de 15 de setembro de 2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `januaria/lc-2026-00170` | Lei Complementar nº 170, de 16 de julho de 2026 | 1 | 2026-07-17 to 2026-07-17 |
+| `januaria/lc-2026-00169` | Lei Complementar nº 169, de 16 de julho de 2026 | 1 | 2026-07-17 to 2026-07-17 |
+| `lagoa-da-prata/lei-2026-04490` | Lei nº 4.490, de 28 de outubro de 2026 | 1 | 2026-10-28 to 2026-10-28 |
+| `lagoa-da-prata/lei-2026-04489` | Lei nº 4.489, de 28 de outubro de 2026 | 1 | 2026-10-28 to 2026-10-28 |
+| `lagoa-da-prata/lei-2026-04488` | Lei nº 4.488, de 28 de outubro de 2026 | 1 | 2026-10-28 to 2026-10-28 |
+| `lagoa-da-prata/lei-2026-04487` | Lei nº 4.487, de 27 de outubro de 2026 | 1 | 2026-10-27 to 2026-10-27 |
+| `lagoa-da-prata/lei-2026-04486` | Lei nº 4.486, de 26 de outubro de 2026 | 1 | 2026-10-26 to 2026-10-26 |
+| `lagoa-da-prata/lc-2026-00330` | Lei Complementar nº 330, de 26 de outubro de 2026 | 1 | 2026-10-26 to 2026-10-26 |
+| `lagoa-da-prata/lc-2026-00329` | Lei Complementar nº 329, de 26 de outubro de 2026 | 1 | 2026-10-26 to 2026-10-26 |
+| `lagoa-da-prata/lei-2026-04485` | Lei nº 4.485, de 19 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lagoa-da-prata/lei-2026-04484` | Lei nº 4.484, de 19 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lagoa-da-prata/lei-2026-04482` | Lei nº 4.482, de 19 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lagoa-da-prata/lei-2026-04481` | Lei nº 4.481, de 19 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lagoa-da-prata/lei-2026-04480` | Lei nº 4.480, de 19 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lagoa-da-prata/lei-2026-04479` | Lei nº 4.479, de 19 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lagoa-da-prata/lei-2026-04478` | Lei nº 4.478, de 19 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lagoa-da-prata/lei-2026-04477` | Lei nº 4.477, de 19 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lagoa-da-prata/lei-2026-04476` | Lei nº 4.476, de 19 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lagoa-da-prata/lc-2026-00328` | Lei Complementar nº 328, de 19 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lagoa-da-prata/lc-2026-00327` | Lei Complementar nº 327, de 19 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lagoa-da-prata/lei-2026-04475` | Lei nº 4.475, de 6 de outubro de 2026 | 1 | 2026-10-06 to 2026-10-06 |
+| `lagoa-da-prata/lei-2026-04474` | Lei nº 4.474, de 6 de outubro de 2026 | 1 | 2026-10-06 to 2026-10-06 |
+| `lagoa-da-prata/lei-2026-04473` | Lei nº 4.473, de 6 de outubro de 2026 | 1 | 2026-10-06 to 2026-10-06 |
+| `lagoa-da-prata/lei-2026-04472` | Lei nº 4.472, de 6 de outubro de 2026 | 1 | 2026-10-06 to 2026-10-06 |
+| `lagoa-da-prata/lei-2026-04471` | Lei nº 4.471, de 6 de outubro de 2026 | 1 | 2026-10-06 to 2026-10-06 |
+| `lagoa-da-prata/lei-2026-04470` | Lei nº 4.470, de 6 de outubro de 2026 | 1 | 2026-10-06 to 2026-10-06 |
+| `lagoa-da-prata/lei-2026-04469` | Lei nº 4.469, de 6 de outubro de 2026 | 1 | 2026-10-06 to 2026-10-06 |
+| `lagoa-da-prata/lei-2026-04468` | Lei nº 4.468, de 6 de outubro de 2026 | 1 | 2026-10-06 to 2026-10-06 |
+| `lagoa-da-prata/lei-2026-04467` | Lei nº 4.467, de 6 de outubro de 2026 | 1 | 2026-10-06 to 2026-10-06 |
+| `lagoa-da-prata/lei-2026-04466` | Lei nº 4.466, de 6 de outubro de 2026 | 1 | 2026-10-06 to 2026-10-06 |
+| `lagoa-da-prata/lc-2026-00326` | Lei Complementar nº 326, de 6 de outubro de 2026 | 1 | 2026-10-06 to 2026-10-06 |
+| `lagoa-da-prata/lei-2026-04465` | Lei nº 4.465, de 24 de setembro de 2026 | 1 | 2026-09-24 to 2026-09-24 |
+| `lagoa-da-prata/lei-2026-04464` | Lei nº 4.464, de 24 de setembro de 2026 | 1 | 2026-09-24 to 2026-09-24 |
+| `lagoa-da-prata/lei-2026-04463` | Lei nº 4.463, de 24 de setembro de 2026 | 1 | 2026-09-24 to 2026-09-24 |
+| `lagoa-da-prata/lei-2026-04462` | Lei nº 4.462, de 24 de setembro de 2026 | 1 | 2026-09-24 to 2026-09-24 |
+| `lagoa-da-prata/lei-2026-04461` | Lei nº 4.461, de 16 de setembro de 2026 | 1 | 2026-09-16 to 2026-09-16 |
+| `lagoa-da-prata/lei-2026-04460` | Lei nº 4.460, de 16 de setembro de 2026 | 1 | 2026-09-16 to 2026-09-16 |
+| `lagoa-da-prata/lc-2026-00325` | Lei Complementar nº 325, de 16 de setembro de 2026 | 1 | 2026-09-16 to 2026-09-16 |
+| `lagoa-da-prata/lei-2026-04459` | Lei nº 4.459, de 8 de setembro de 2026 | 1 | 2026-09-08 to 2026-09-08 |
+| `lagoa-da-prata/lei-2026-04458` | Lei nº 4.458, de 8 de setembro de 2026 | 1 | 2026-09-08 to 2026-09-08 |
+| `lagoa-da-prata/lei-2026-04457` | Lei nº 4.457, de 8 de setembro de 2026 | 1 | 2026-09-08 to 2026-09-08 |
+| `lagoa-da-prata/lei-2026-04456` | Lei nº 4.456, de 8 de setembro de 2026 | 1 | 2026-09-08 to 2026-09-08 |
+| `lagoa-da-prata/lei-2026-04455` | Lei nº 4.455, de 1 de setembro de 2026 | 1 | 2026-09-01 to 2026-09-01 |
+| `lagoa-da-prata/lei-2026-04454` | Lei nº 4.454, de 27 de agosto de 2026 | 1 | 2026-08-27 to 2026-08-27 |
+| `manhuacu/lei-2026-04673` | Lei nº 4.673, de 22 de outubro de 2026 | 1 | 2026-10-27 to 2026-10-27 |
+| `manhuacu/lei-2026-04672` | Lei nº 4.672, de 8 de outubro de 2026 | 1 | 2026-10-24 to 2026-10-24 |
+| `manhuacu/lei-2026-04671` | Lei nº 4.671, de 8 de outubro de 2026 | 1 | 2026-10-24 to 2026-10-24 |
+| `manhuacu/lei-2026-04670` | Lei nº 4.670, de 8 de outubro de 2026 | 1 | 2026-10-24 to 2026-10-24 |
+| `manhuacu/lc-2026-00051` | Lei Complementar nº 51, de 8 de outubro de 2026 | 1 | 2026-10-24 to 2026-10-24 |
+| `manhuacu/lei-2026-04669` | Lei nº 4.669, de 30 de setembro de 2026 | 1 | 2026-10-01 to 2026-10-01 |
+| `manhuacu/lei-2026-04668` | Lei nº 4.668, de 30 de setembro de 2026 | 1 | 2026-10-01 to 2026-10-01 |
+| `manhuacu/lc-2026-00049` | Lei Complementar nº 49, de 6 de setembro de 2026 | 1 | 2026-09-24 to 2026-09-24 |
+| `manhuacu/lei-2026-04667` | Lei nº 4.667, de 3 de setembro de 2026 | 1 | 2026-09-25 to 2026-09-25 |
+| `manhuacu/lei-2026-04666` | Lei nº 4.666, de 3 de setembro de 2026 | 1 | 2026-09-25 to 2026-09-25 |
+| `manhuacu/lei-2026-04665` | Lei nº 4.665, de 3 de setembro de 2026 | 1 | 2026-09-25 to 2026-09-25 |
+| `manhuacu/lei-2026-04664` | Lei nº 4.664, de 3 de setembro de 2026 | 1 | 2026-09-25 to 2026-09-25 |
+| `manhuacu/lei-2026-04663` | Lei nº 4.663, de 3 de setembro de 2026 | 1 | 2026-09-25 to 2026-09-25 |
+| `manhuacu/lei-2026-04662` | Lei nº 4.662, de 3 de setembro de 2026 | 1 | 2026-09-25 to 2026-09-25 |
+| `manhuacu/lei-2026-04661` | Lei nº 4.661, de 3 de setembro de 2026 | 1 | 2026-09-25 to 2026-09-25 |
+| `manhuacu/lei-2026-04660` | Lei nº 4.660, de 20 de agosto de 2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `manhuacu/lei-2026-04659` | Lei nº 4.659, de 20 de agosto de 2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `manhuacu/lei-2026-04658` | Lei nº 4.658, de 20 de agosto de 2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `manhuacu/lei-2026-04657` | Lei nº 4.657, de 20 de agosto de 2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `manhuacu/lei-2026-04656` | Lei nº 4.656, de 20 de agosto de 2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `manhuacu/lei-2026-04655` | Lei nº 4.655, de 20 de agosto de 2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `manhuacu/lei-2026-04653` | Lei nº 4.653, de 6 de agosto de 2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `manhuacu/lc-2026-00048` | Lei Complementar nº 48, de 6 de agosto de 2026 | 1 | 2026-09-11 to 2026-09-11 |
+| `manhuacu/lei-2026-04652` | Lei nº 4.652, de 23 de julho de 2026 | 1 | 2026-08-05 to 2026-08-05 |
+| `manhuacu/lei-2026-04651` | Lei nº 4.651, de 23 de julho de 2026 | 1 | 2026-08-05 to 2026-08-05 |
+| `manhuacu/lc-2026-00047` | Lei Complementar nº 47, de 23 de julho de 2026 | 1 | 2026-07-23 to 2026-07-23 |
+| `manhuacu/lei-2026-04649` | Lei nº 4.649, de 22 de julho de 2026 | 1 | 2026-07-23 to 2026-07-23 |
+| `manhuacu/lei-2026-04648` | Lei nº 4.648, de 22 de julho de 2026 | 1 | 2026-07-23 to 2026-07-23 |
+| `manhuacu/lei-2026-04647` | Lei nº 4.647, de 22 de julho de 2026 | 1 | 2026-07-23 to 2026-07-23 |
+| `manhuacu/lei-2026-04646` | Lei nº 4.646, de 22 de julho de 2026 | 1 | 2026-07-23 to 2026-07-23 |
+| `manhuacu/lei-2026-04645` | Lei nº 4.645, de 22 de julho de 2026 | 1 | 2026-07-23 to 2026-07-23 |
+| `manhuacu/lei-2026-04644` | Lei nº 4.644, de 22 de julho de 2026 | 1 | 2026-07-23 to 2026-07-23 |
+| `manhuacu/lei-2026-04643` | Lei nº 4.643, de 22 de julho de 2026 | 1 | 2026-07-23 to 2026-07-23 |
+| `manhuacu/lei-2026-04642` | Lei nº 4.642, de 14 de julho de 2026 | 1 | 2026-07-23 to 2026-07-23 |
+| `manhuacu/lei-2026-04641` | Lei nº 4.641, de 14 de julho de 2026 | 1 | 2026-07-23 to 2026-07-23 |
+| `manhuacu/lei-2026-04640` | Lei nº 4.640, de 14 de julho de 2026 | 1 | 2026-07-14 to 2026-07-14 |
+| `manhuacu/lei-2026-04637` | Lei nº 4.637, de 19 de junho de 2026 | 1 | 2026-06-19 to 2026-06-19 |
+| `manhuacu/lei-2026-04636` | Lei nº 4.636, de 19 de junho de 2026 | 1 | 2026-06-20 to 2026-06-20 |
+| `manhuacu/lei-2026-04635` | Lei nº 4.635, de 19 de junho de 2026 | 1 | 2026-06-20 to 2026-06-20 |
 | `para-de-minas/lei-2021-06552` | Lei nº 6.552, de 30 de abril de 2021 | 1 | 2021-04-30 to 2021-04-30 |
 | `para-de-minas/lei-2021-06551` | Lei nº 6.551, de 30 de abril de 2021 | 1 | 2021-04-30 to 2021-04-30 |
 | `para-de-minas/lei-2021-06550` | Lei nº 6.550, de 30 de abril de 2021 | 1 | 2021-04-30 to 2021-04-30 |
+| `patrocinio/lc-2026-00288` | Lei Complementar nº 288, de 10 de setembro de 2026 | 1 | 2026-09-14 to 2026-09-14 |
+| `patrocinio/lc-2026-00287` | Lei Complementar nº 287, de 9 de setembro de 2026 | 1 | 2026-09-14 to 2026-09-14 |
+| `patrocinio/lc-2026-00285` | Lei Complementar nº 285, de 16 de julho de 2026 | 1 | 2026-07-22 to 2026-07-22 |
+| `patrocinio/lc-2026-00284` | Lei Complementar nº 284, de 14 de julho de 2026 | 1 | 2026-07-20 to 2026-07-20 |
+| `patrocinio/lc-2026-00283` | Lei Complementar nº 283, de 28 de maio de 2026 | 1 | 2026-06-01 to 2026-06-01 |
+| `patrocinio/lc-2026-00282` | Lei Complementar nº 282, de 29 de abril de 2026 | 1 | 2026-04-30 to 2026-04-30 |
+| `patrocinio/lc-2026-00280` | Lei Complementar nº 280, de 1 de abril de 2026 | 1 | 2026-04-02 to 2026-04-02 |
+| `patrocinio/lc-2026-00278` | Lei Complementar nº 278, de 13 de março de 2026 | 1 | 2026-03-17 to 2026-03-17 |
+| `patrocinio/lc-2026-00277` | Lei Complementar nº 277, de 13 de março de 2026 | 1 | 2026-03-17 to 2026-03-17 |
+| `patrocinio/lc-2026-00276` | Lei Complementar nº 276, de 3 de março de 2026 | 1 | 2026-03-09 to 2026-03-09 |
+| `patrocinio/lc-2026-00275` | Lei Complementar nº 275, de 3 de março de 2026 | 1 | 2026-03-09 to 2026-03-09 |
 | `pedro-leopoldo/lei-2026-03986` | Lei nº 3.986, de 27 de agosto de 2026 | 1 | 2026-08-27 to 2026-08-27 |
 | `pedro-leopoldo/lei-2026-03949` | Lei nº 3.949, de 29 de junho de 2026 | 1 | 2026-06-29 to 2026-06-29 |
 | `pedro-leopoldo/lei-2026-03948` | Lei nº 3.948, de 29 de junho de 2026 | 1 | 2026-06-29 to 2026-06-29 |
@@ -127,21 +232,64 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `pedro-leopoldo/lei-2026-03923` | Lei nº 3.923, de 21 de maio de 2026 | 1 | 2026-05-21 to 2026-05-21 |
 | `pedro-leopoldo/lei-2026-03922` | Lei nº 3.922, de 21 de maio de 2026 | 1 | 2026-05-21 to 2026-05-21 |
 | `pedro-leopoldo/lei-2026-03919` | Lei nº 3.919, de 13 de março de 2026 | 1 | 2026-03-13 to 2026-03-13 |
+| `ponte-nova/lei-2026-04980` | Lei nº 4.980, de 2 de outubro de 2026 | 1 | 2026-10-06 to 2026-10-06 |
+| `ponte-nova/lc-2026-04979` | Lei Complementar nº 4.979, de 29 de setembro de 2026 | 1 | 2026-09-30 to 2026-09-30 |
+| `ponte-nova/lc-2026-04978` | Lei Complementar nº 4.978, de 24 de setembro de 2026 | 1 | 2026-09-25 to 2026-09-25 |
+| `ponte-nova/lc-2026-04977` | Lei Complementar nº 4.977, de 23 de setembro de 2026 | 1 | 2026-09-25 to 2026-09-25 |
+| `ponte-nova/lc-2026-04976` | Lei Complementar nº 4.976, de 17 de setembro de 2026 | 1 | 2026-09-18 to 2026-09-18 |
+| `ponte-nova/lei-2026-04974` | Lei nº 4.974, de 14 de setembro de 2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `ponte-nova/lei-2026-04973` | Lei nº 4.973, de 14 de setembro de 2026 | 1 | 2026-09-15 to 2026-09-15 |
+| `ponte-nova/lei-2026-04971` | Lei nº 4.971, de 8 de setembro de 2026 | 1 | 2026-09-09 to 2026-09-09 |
+| `ponte-nova/lei-2026-04970` | Lei nº 4.970, de 25 de agosto de 2026 | 1 | 2026-08-27 to 2026-08-27 |
+| `ponte-nova/lei-2026-04969` | Lei nº 4.969, de 21 de agosto de 2026 | 1 | 2026-08-24 to 2026-08-24 |
+| `ponte-nova/lei-2026-04968` | Lei nº 4.968, de 27 de julho de 2026 | 1 | 2026-07-29 to 2026-07-29 |
+| `ponte-nova/lei-2026-04967` | Lei nº 4.967, de 17 de julho de 2026 | 1 | 2026-07-20 to 2026-07-20 |
+| `ponte-nova/lc-2026-04966` | Lei Complementar nº 4.966, de 16 de julho de 2026 | 1 | 2026-07-20 to 2026-07-20 |
+| `ponte-nova/lc-2026-04965` | Lei Complementar nº 4.965, de 16 de julho de 2026 | 1 | 2026-07-21 to 2026-07-21 |
+| `ponte-nova/lei-2026-04964` | Lei nº 4.964, de 16 de julho de 2026 | 1 | 2026-07-17 to 2026-07-17 |
+| `ponte-nova/lei-2026-04963` | Lei nº 4.963, de 15 de julho de 2026 | 1 | 2026-07-17 to 2026-07-17 |
+| `ponte-nova/lei-2026-04962` | Lei nº 4.962, de 15 de julho de 2026 | 1 | 2026-07-17 to 2026-07-17 |
+| `ponte-nova/lei-2026-04961` | Lei nº 4.961, de 15 de julho de 2026 | 1 | 2026-07-17 to 2026-07-17 |
+| `ponte-nova/lei-2026-04960` | Lei nº 4.960, de 14 de julho de 2026 | 1 | 2026-07-15 to 2026-07-15 |
+| `ponte-nova/lei-2026-04959` | Lei nº 4.959, de 14 de julho de 2026 | 1 | 2026-07-15 to 2026-07-15 |
+| `ponte-nova/lei-2026-04958` | Lei nº 4.958, de 14 de julho de 2026 | 1 | 2026-07-15 to 2026-07-15 |
+| `ponte-nova/lei-2026-04956` | Lei nº 4.956, de 3 de julho de 2026 | 1 | 2026-07-06 to 2026-07-06 |
+| `ponte-nova/lei-2026-04955` | Lei nº 4.955, de 3 de julho de 2026 | 1 | 2026-07-06 to 2026-07-06 |
+| `ponte-nova/lei-2026-04954` | Lei nº 4.954, de 30 de junho de 2026 | 1 | 2026-07-01 to 2026-07-01 |
+| `ponte-nova/lei-2026-04953` | Lei nº 4.953, de 30 de junho de 2026 | 1 | 2026-07-01 to 2026-07-01 |
+| `ponte-nova/lei-2026-04952` | Lei nº 4.952, de 30 de junho de 2026 | 1 | 2026-07-01 to 2026-07-01 |
+| `ponte-nova/lei-2026-04951` | Lei nº 4.951, de 30 de junho de 2026 | 1 | 2026-07-01 to 2026-07-01 |
+| `ponte-nova/lei-2026-04950` | Lei nº 4.950, de 30 de junho de 2026 | 1 | 2026-07-01 to 2026-07-01 |
+| `ponte-nova/lei-2026-04949` | Lei nº 4.949, de 30 de junho de 2026 | 1 | 2026-07-01 to 2026-07-01 |
+| `ponte-nova/lei-2026-04948` | Lei nº 4.948, de 30 de junho de 2026 | 1 | 2026-07-01 to 2026-07-01 |
+| `ponte-nova/lei-2026-04947` | Lei nº 4.947, de 29 de junho de 2026 | 1 | 2026-06-30 to 2026-06-30 |
+| `ponte-nova/lei-2026-04946` | Lei nº 4.946, de 24 de junho de 2026 | 1 | 2026-06-24 to 2026-06-24 |
+| `ponte-nova/lei-2026-04945` | Lei nº 4.945, de 22 de junho de 2026 | 1 | 2026-06-22 to 2026-06-22 |
+| `ponte-nova/lei-2026-04943` | Lei nº 4.943, de 8 de junho de 2026 | 1 | 2026-06-10 to 2026-06-10 |
+| `ponte-nova/lei-2026-04942` | Lei nº 4.942, de 8 de junho de 2026 | 1 | 2026-06-09 to 2026-06-09 |
+| `ponte-nova/lei-2026-04941` | Lei nº 4.941, de 29 de maio de 2026 | 1 | 2026-06-01 to 2026-06-01 |
+| `ponte-nova/lei-2026-04940` | Lei nº 4.940, de 29 de maio de 2026 | 1 | 2026-06-03 to 2026-06-03 |
+| `ponte-nova/lei-2026-04939` | Lei nº 4.939, de 26 de maio de 2026 | 1 | 2026-05-27 to 2026-05-27 |
+| `ponte-nova/lc-2026-04938` | Lei Complementar nº 4.938, de 26 de maio de 2026 | 1 | 2026-05-27 to 2026-05-27 |
+| `ponte-nova/lei-2026-04937` | Lei nº 4.937, de 20 de maio de 2026 | 1 | 2026-05-21 to 2026-05-21 |
+| `ponte-nova/lei-2026-04936` | Lei nº 4.936, de 20 de maio de 2026 | 1 | 2026-05-21 to 2026-05-21 |
+| `ponte-nova/lei-2026-04935` | Lei nº 4.935, de 20 de maio de 2026 | 1 | 2026-05-20 to 2026-05-20 |
+| `ponte-nova/lc-2026-04934` | Lei Complementar nº 4.934, de 19 de maio de 2026 | 1 | 2026-05-19 to 2026-05-19 |
 | `timoteo/lc-2026-00016` | Lei Complementar nº 16, de 29 de julho de 2026 | 1 | 2026-07-29 to 2026-07-29 |
 
-The build made 108 commits:
+The build made 250 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 108 | first version of an act |
+| 250 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 108 laws in the record.
-- 216 tags.
+- 250 laws in the record.
+- 500 tags.
 
 ## Dates
 
@@ -153,13 +301,13 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2227456d4379fb714b79de59f6d5ddfaee06c11169c6c7982cf26b42ce80faa3` (681922 bytes).
+- Corpus: sha256 `25d5dba9688bb4ebb1a81bb98865c068c773c51ef1dc9a0ec8eaead16ce48f56` (1604841 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-108 versions of 108 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+250 versions of 250 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 

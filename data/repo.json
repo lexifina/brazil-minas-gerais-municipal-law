@@ -52,6 +52,54 @@
    "code": "BR-MG-ITABIRITO",
    "official_code": "3131901",
    "source": "sapl.itabirito.mg.leg.br"
+  },
+  {
+   "id": "bom-despacho",
+   "folder": "bom-despacho",
+   "name": "Bom Despacho",
+   "code": "BR-MG-BOM-DESPACHO",
+   "official_code": "3107406",
+   "source": "sapl.bomdespacho.mg.leg.br"
+  },
+  {
+   "id": "januaria",
+   "folder": "januaria",
+   "name": "Januária",
+   "code": "BR-MG-JANUARIA",
+   "official_code": "3135209",
+   "source": "sapl.januaria.mg.leg.br"
+  },
+  {
+   "id": "lagoa-da-prata",
+   "folder": "lagoa-da-prata",
+   "name": "Lagoa da Prata",
+   "code": "BR-MG-LAGOA-DA-PRATA",
+   "official_code": "3137205",
+   "source": "sapl.lagoadaprata.mg.leg.br"
+  },
+  {
+   "id": "manhuacu",
+   "folder": "manhuacu",
+   "name": "Manhuaçu",
+   "code": "BR-MG-MANHUACU",
+   "official_code": "3139409",
+   "source": "sapl.manhuacu.mg.leg.br"
+  },
+  {
+   "id": "patrocinio",
+   "folder": "patrocinio",
+   "name": "Patrocínio",
+   "code": "BR-MG-PATROCINIO",
+   "official_code": "3148103",
+   "source": "sapl.patrocinio.mg.leg.br"
+  },
+  {
+   "id": "ponte-nova",
+   "folder": "ponte-nova",
+   "name": "Ponte Nova",
+   "code": "BR-MG-PONTE-NOVA",
+   "official_code": "3152105",
+   "source": "sapl.pontenova.mg.leg.br"
   }
  ]
 }
