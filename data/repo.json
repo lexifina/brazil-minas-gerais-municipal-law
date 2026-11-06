@@ -1,0 +1,57 @@
+{
+ "country": "BR-MG-MUNICIPAL",
+ "name": "Minas Gerais: municipal chambers",
+ "tz": "America/Sao_Paulo",
+ "future_branch": "futuro",
+ "publisher": "Câmaras Municipais de Minas Gerais (SAPL)",
+ "units": [
+  {
+   "id": "contagem",
+   "folder": "contagem",
+   "name": "Contagem",
+   "code": "BR-MG-CONTAGEM",
+   "official_code": "3118601",
+   "source": "sapl.contagem.mg.leg.br"
+  },
+  {
+   "id": "para-de-minas",
+   "folder": "para-de-minas",
+   "name": "Pará de Minas",
+   "code": "BR-MG-PARA-DE-MINAS",
+   "official_code": "3147105",
+   "source": "sapl.parademinas.mg.leg.br"
+  },
+  {
+   "id": "pedro-leopoldo",
+   "folder": "pedro-leopoldo",
+   "name": "Pedro Leopoldo",
+   "code": "BR-MG-PEDRO-LEOPOLDO",
+   "official_code": "3149309",
+   "source": "sapl.pedroleopoldo.mg.leg.br"
+  },
+  {
+   "id": "timoteo",
+   "folder": "timoteo",
+   "name": "Timóteo",
+   "code": "BR-MG-TIMOTEO",
+   "official_code": "3168705",
+   "source": "sapl.timoteo.mg.leg.br"
+  },
+  {
+   "id": "frutal",
+   "folder": "frutal",
+   "name": "Frutal",
+   "code": "BR-MG-FRUTAL",
+   "official_code": "3127107",
+   "source": "sapl.frutal.mg.leg.br"
+  },
+  {
+   "id": "itabirito",
+   "folder": "itabirito",
+   "name": "Itabirito",
+   "code": "BR-MG-ITABIRITO",
+   "official_code": "3131901",
+   "source": "sapl.itabirito.mg.leg.br"
+  }
+ ]
+}

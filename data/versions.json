@@ -1,0 +1,1625 @@
+{
+ "country": "BR-MG-MUNICIPAL",
+ "acts": [
+  {
+   "slug": "contagem/lei-2026-05775",
+   "unit": "contagem",
+   "short": "Lei 5775/2026",
+   "title": "Lei nº 5.775, de 5 de outubro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5021",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 4,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5021/lei_n.o_5775.2026.pdf",
+     "sha256": "67154c19a4123e8dd81b45fd6a9a15ec4704e58d1ea8a2bb75ba1f5e71de977e"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05774",
+   "unit": "contagem",
+   "short": "Lei 5774/2026",
+   "title": "Lei nº 5.774, de 5 de outubro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5020",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5020/lei_n.o_5774.2026.pdf",
+     "sha256": "795292ea2ca81f82d882e166f1a7a248de65655e0bd5f4b89fafa8555bdd9cfe"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05772",
+   "unit": "contagem",
+   "short": "Lei 5772/2026",
+   "title": "Lei nº 5.772, de 23 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5012",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5012/lei_n.o_5772.2026.pdf",
+     "sha256": "7f63515602490455169cf71d9651f1e112d07363122dd10df82da14e4f6a2a62"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05770",
+   "unit": "contagem",
+   "short": "Lei 5770/2026",
+   "title": "Lei nº 5.770, de 23 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5010",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 3,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5010/lei_n.o_5770.2026.pdf",
+     "sha256": "6d387fcdd221cf2d3f16a5105737715f7633b8ca9d52ba36a5a8abb9ddfaf551"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05768",
+   "unit": "contagem",
+   "short": "Lei 5768/2026",
+   "title": "Lei nº 5.768, de 18 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5004",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 11,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5004/lei_n.o_5768.2026.pdf",
+     "sha256": "d91516fed90d5ca50ae83055166700b9a0b1e6859abd19e25deba25a7d70b9a6"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05767",
+   "unit": "contagem",
+   "short": "Lei 5767/2026",
+   "title": "Lei nº 5.767, de 17 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5003",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 3,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5003/lei_n.o_5767.2026.pdf",
+     "sha256": "b5e0eecc2bf0737947485037d320b68af84c644577887f184435b6a3f58881e6"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05766",
+   "unit": "contagem",
+   "short": "Lei 5766/2026",
+   "title": "Lei nº 5.766, de 16 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5002",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 7,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5002/lei_n.o_5766.2026.pdf",
+     "sha256": "37af33fbe398f9aab57269ed0f7c7b673e76b9f5959c31aa70e8786e404b878a"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05765",
+   "unit": "contagem",
+   "short": "Lei 5765/2026",
+   "title": "Lei nº 5.765, de 15 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5001",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 3,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5001/lei_n.o_5765.2026.pdf",
+     "sha256": "03a0891ae63e81d833abc411564750bf4edb14f74c4ca4292c2e9b0b0e35d0ab"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05764",
+   "unit": "contagem",
+   "short": "Lei 5764/2026",
+   "title": "Lei nº 5.764, de 11 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4999",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 3,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4999/lei_n.o_5764.2026.pdf",
+     "sha256": "ddc5cd17739982c65a9cdbd88418cd07aa8157332b130d118a68d762102c1d81"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05763",
+   "unit": "contagem",
+   "short": "Lei 5763/2026",
+   "title": "Lei nº 5.763, de 9 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4998",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4998/lei_n.o_5763.2026.pdf",
+     "sha256": "4dc7d3c7eee311360e21819354125ad9cac4340ffc792fd1b8415d66b4f38f1b"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05762",
+   "unit": "contagem",
+   "short": "Lei 5762/2026",
+   "title": "Lei nº 5.762, de 2 de setembro de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4997",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 17,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4997/lei_n.o_5762.2026.pdf",
+     "sha256": "0a0c6c307be1b82d85742a3e44ccbb9ea92355d40eabf43aedd893e513daedcd"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lc-2026-00408",
+   "unit": "contagem",
+   "short": "LC 408/2026",
+   "title": "Lei Complementar nº 408, de 27 de agosto de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4992",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 10,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4992/lei_complementar_n.o_408.2026.pdf",
+     "sha256": "3f6da3d79f2412d4b5b26423a2c5a73721b101a9dc257aff06ebaa997524f630"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lc-2026-00407",
+   "unit": "contagem",
+   "short": "LC 407/2026",
+   "title": "Lei Complementar nº 407, de 3 de agosto de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4987",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4987/4987_texto_integral.pdf",
+     "sha256": "126fa88ff1b32e0cb3b13b825cfe67e073aad7c1f8a3df46945b1443a025d698"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lc-2026-00406",
+   "unit": "contagem",
+   "short": "LC 406/2026",
+   "title": "Lei Complementar nº 406, de 3 de agosto de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4986",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 4,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4986/4986_texto_integral.pdf",
+     "sha256": "ec8b24aa725f9d849dd83bfaca4ec77116d561321797e81c32d314a962ef7bfb"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lc-2026-00405",
+   "unit": "contagem",
+   "short": "LC 405/2026",
+   "title": "Lei Complementar nº 405, de 3 de agosto de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4985",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 10,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4985/4985_texto_integral.pdf",
+     "sha256": "1cba21de44ecd467f708cba031aff492e7c2c41ac9154a8f41b519662ab9c067"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05756",
+   "unit": "contagem",
+   "short": "Lei 5756/2026",
+   "title": "Lei nº 5.756, de 28 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4981",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 8,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4981/4981_texto_integral.pdf",
+     "sha256": "9374a0b4a9dfaad46354117a371051949616a127f5f71c792489bbb5931ddefe"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05754",
+   "unit": "contagem",
+   "short": "Lei 5754/2026",
+   "title": "Lei nº 5.754, de 28 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/5009",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/5009/lei_n.o_5754.2026.pdf",
+     "sha256": "f3fc1ad986efe9904fa96555eaaecf0bcb37dad4fae6d1ea637564bb9ffc147e"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05753",
+   "unit": "contagem",
+   "short": "Lei 5753/2026",
+   "title": "Lei nº 5.753, de 28 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4978",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 6,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4978/4978_texto_integral.pdf",
+     "sha256": "8f42575c3fc636ae19400d9413c9453c4e0040af4b3cc97e9fe137cb2a68c96e"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05750",
+   "unit": "contagem",
+   "short": "Lei 5750/2026",
+   "title": "Lei nº 5.750, de 22 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4983",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 8,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4983/4983_texto_integral.pdf",
+     "sha256": "9300f08547866320ef6c3436b507ff43c2ba25f770bfc59c85605490d263379c"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05748",
+   "unit": "contagem",
+   "short": "Lei 5748/2026",
+   "title": "Lei nº 5.748, de 15 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4972",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 7,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4972/4972_texto_integral.pdf",
+     "sha256": "dff7d740eb475d14f9b8ae9def89673fb4333e58f0218e0cb16a863ffb4f8b38"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05747",
+   "unit": "contagem",
+   "short": "Lei 5747/2026",
+   "title": "Lei nº 5.747, de 15 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4973",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4973/4973_texto_integral.pdf",
+     "sha256": "fe21bf3728d9c030a1f525ef93ca98150686e4a36780680eae4fb8fd1cc41f9e"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05746",
+   "unit": "contagem",
+   "short": "Lei 5746/2026",
+   "title": "Lei nº 5.746, de 15 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4974",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 10,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4974/4974_texto_integral.pdf",
+     "sha256": "497ab09bf393dea8c6c804a2cf716540911c9da957b97101c2ef38b032e7fa87"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05743",
+   "unit": "contagem",
+   "short": "Lei 5743/2026",
+   "title": "Lei nº 5.743, de 7 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4968",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 20,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4968/4968_texto_integral.pdf",
+     "sha256": "b3d74d413d3161eeafa3988e7af2b3498429d2a5af43c7dfb833597d2836f092"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05742",
+   "unit": "contagem",
+   "short": "Lei 5742/2026",
+   "title": "Lei nº 5.742, de 7 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4967",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 6,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4967/4967_texto_integral.pdf",
+     "sha256": "7e36ea14cd93366402c8f9227771183b7e3307da1db9221b7c03126b6528c9c8"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05741",
+   "unit": "contagem",
+   "short": "Lei 5741/2026",
+   "title": "Lei nº 5.741, de 6 de julho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4965",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 8,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4965/4965_texto_integral.pdf",
+     "sha256": "6202cd48a5a2a49542bee00e940f21dffb9570c0a1dc209f3a6335d76cae643f"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05740",
+   "unit": "contagem",
+   "short": "Lei 5740/2026",
+   "title": "Lei nº 5.740, de 30 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4964",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 21,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4964/4964_texto_integral.pdf",
+     "sha256": "f761d9ea507e51df1310a05e60f646725480b0d0899b1582f42da5f87e53b18f"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05739",
+   "unit": "contagem",
+   "short": "Lei 5739/2026",
+   "title": "Lei nº 5.739, de 24 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4966",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4966/4966_texto_integral.pdf",
+     "sha256": "7abb3100ca00a0706aa61a21dfa5b721d5f9e29e990bae0a0eb18aa2353a2cfe"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05738",
+   "unit": "contagem",
+   "short": "Lei 5738/2026",
+   "title": "Lei nº 5.738, de 19 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4962",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 3,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4962/4962_texto_integral.pdf",
+     "sha256": "605f98f734b571178d60e024355bf441fc67360b4b3a4fc04fc78dbf2a69a7a2"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05736",
+   "unit": "contagem",
+   "short": "Lei 5736/2026",
+   "title": "Lei nº 5.736, de 16 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4960",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 5,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4960/4960_texto_integral.pdf",
+     "sha256": "cdc1c9334a489ca1aa54651687b2c057d6c6d8b4d9c71fe9d70754c53c035be3"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05735",
+   "unit": "contagem",
+   "short": "Lei 5735/2026",
+   "title": "Lei nº 5.735, de 16 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4959",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 6,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4959/4959_texto_integral.pdf",
+     "sha256": "af10cef864b27c96c1526ece402530749241c90d332fb6eb13791a5d95256f7c"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05734",
+   "unit": "contagem",
+   "short": "Lei 5734/2026",
+   "title": "Lei nº 5.734, de 16 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4958",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 6,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4958/4958_texto_integral.pdf",
+     "sha256": "246c65a700a8acb0b8cec4faa391233424f61b55f5f80fb0253c2d9b7065bb80"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05733",
+   "unit": "contagem",
+   "short": "Lei 5733/2026",
+   "title": "Lei nº 5.733, de 16 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4957",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 21,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4957/4957_texto_integral.pdf",
+     "sha256": "d98316319c1c50e3197f512f42bdb0036eebb07c1f4ad59bdea929b4c54cdb23"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05731",
+   "unit": "contagem",
+   "short": "Lei 5731/2026",
+   "title": "Lei nº 5.731, de 2 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4956",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 6,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4956/4956_texto_integral.pdf",
+     "sha256": "19cb78eb663a07818cada360739d8fdec68e4d0aeb6d442ac366c2213344305c"
+    }
+   ]
+  },
+  {
+   "slug": "contagem/lei-2026-05730",
+   "unit": "contagem",
+   "short": "Lei 5730/2026",
+   "title": "Lei nº 5.730, de 2 de junho de 2026",
+   "url": "https://sapl.contagem.mg.leg.br/norma/4955",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 4,
+     "source_url": "https://sapl.contagem.mg.leg.br/media/sapl/public/normajuridica/2026/4955/4955_texto_integral.pdf",
+     "sha256": "b2950a4e6c3309c08cc3b8a14aa888af0b15eafa72c39f4b7a32e64b0b3bb4d0"
+    }
+   ]
+  },
+  {
+   "slug": "frutal/lei-2022-06600",
+   "unit": "frutal",
+   "short": "Lei 6600/2022",
+   "title": "Lei nº 6.600, de 8 de julho de 2022",
+   "url": "https://sapl.frutal.mg.leg.br/norma/6230",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 9,
+     "source_url": "https://sapl.frutal.mg.leg.br/media/sapl/public/normajuridica/2022/6230/6600_22_impantacaodispositivo_bocalobo_promulgada.pdf",
+     "sha256": "406461c8df393b442413f1c26bc90d91c7e95026976bfb5631c2047d64066afc"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04686",
+   "unit": "itabirito",
+   "short": "Lei 4686/2026",
+   "title": "Lei nº 4.686, de 26 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5312",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 9,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5312/lei_no_4686_de_26_de_outubro_de_2026_pl_253.2026.pdf",
+     "sha256": "4c2e43356c9f2c62bf09f1c77efe5de1a3c1faf5192356c6826305329235d675"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04685",
+   "unit": "itabirito",
+   "short": "Lei 4685/2026",
+   "title": "Lei nº 4.685, de 26 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5311",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 18,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5311/lei_no_4685_de_26_de_outubro_de_2026_pl_250.2026.pdf",
+     "sha256": "db954a2120adf68386668c41a0b16d7a27010957232f7a7a340a206d0b82876b"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04684",
+   "unit": "itabirito",
+   "short": "Lei 4684/2026",
+   "title": "Lei nº 4.684, de 26 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5310",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 18,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5310/lei_no_4684_de_26_de_outubro_de_2026_pl_249.2026.pdf",
+     "sha256": "169431e731c12f38211b8b6fe95547bfeccbaaf1e3af8c489c944dae30f64142"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04683",
+   "unit": "itabirito",
+   "short": "Lei 4683/2026",
+   "title": "Lei nº 4.683, de 23 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5308",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 5,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5308/lei_no_4683_de_23_de_outubro_de_2026_pl_255.2026.pdf",
+     "sha256": "67db537e317533a4a6c79f940796c969fc5ae972af5fd6c2088ab827c378baca"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04682",
+   "unit": "itabirito",
+   "short": "Lei 4682/2026",
+   "title": "Lei nº 4.682, de 23 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5307",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 12,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5307/lei_no_4682_de_23_de_outubro_de_2026_pl_252.2026.pdf",
+     "sha256": "21abd035f054a65a41ba4aebf5b452f5e45be83a510b3b368ac77d65a7a92186"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04681",
+   "unit": "itabirito",
+   "short": "Lei 4681/2026",
+   "title": "Lei nº 4.681, de 23 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5306",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 14,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5306/lei_no_4681_de_23_de_outubro_de_2026_pl_251.2026.pdf",
+     "sha256": "e44c5d8557d313c50671fc519b2afdd71583b6e0ab9e3bd74d3c22f8979b487c"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04680",
+   "unit": "itabirito",
+   "short": "Lei 4680/2026",
+   "title": "Lei nº 4.680, de 9 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5302",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 4,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5302/lei_no_4680_de_9_de_outubro_de_2026.pdf",
+     "sha256": "56b45afeb8498b676191413904fca9dea60021b0d869519b1da885fe610558c9"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04679",
+   "unit": "itabirito",
+   "short": "Lei 4679/2026",
+   "title": "Lei nº 4.679, de 9 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5301",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 4,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5301/lei_no_4679_de_9_de_outubro_de_2026.pdf",
+     "sha256": "02d9faad55a5a6151151a4c86e79937a4e27edc8dc41aff6c2a769027959e4d5"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04678",
+   "unit": "itabirito",
+   "short": "Lei 4678/2026",
+   "title": "Lei nº 4.678, de 9 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5300",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 4,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5300/lei_no_4678_de_9_de_outubro_de_2026.pdf",
+     "sha256": "25b28eab44077743411324112da05f6581951fc43b88efe60be3da2b702e8249"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04677",
+   "unit": "itabirito",
+   "short": "Lei 4677/2026",
+   "title": "Lei nº 4.677, de 9 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5299",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 4,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5299/lei_no_4677_de_9_de_outubro_de_2026.pdf",
+     "sha256": "b5acfe107e4e8c6936d1450788f8200b4f625cb34b8996fc1b22847768321c2a"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04676",
+   "unit": "itabirito",
+   "short": "Lei 4676/2026",
+   "title": "Lei nº 4.676, de 9 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5298",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 4,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5298/lei_no_4676_de_9_de_outubro_de_2026.pdf",
+     "sha256": "79258d8f9190fc6f2dcf78daf2ffd2af34e719ea1297e3bf955ebd9e68836c41"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04675",
+   "unit": "itabirito",
+   "short": "Lei 4675/2026",
+   "title": "Lei nº 4.675, de 9 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5297",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 4,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5297/lei_no_4675_de_9_de_outubro_de_2026.pdf",
+     "sha256": "b46dc19433a094b53dd4aca4a9def8a1878ce8628b90d96bec0139ed1224c3e9"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04674",
+   "unit": "itabirito",
+   "short": "Lei 4674/2026",
+   "title": "Lei nº 4.674, de 8 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5296",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 9,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5296/lei_no_4674_de_8_de_outubro_de_2026.pdf",
+     "sha256": "fbab78fd344ce1e3a5e41de764b15fe38cd9af59fec2a9450ba1b8c86dcd8ae0"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04673",
+   "unit": "itabirito",
+   "short": "Lei 4673/2026",
+   "title": "Lei nº 4.673, de 8 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5295",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 11,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5295/lei_no_4673_de_8_de_outubro_de_2026.pdf",
+     "sha256": "81bfb52fa06aa6fe327e08e105be594655c225a19af37c7064d8413e91950790"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04672",
+   "unit": "itabirito",
+   "short": "Lei 4672/2026",
+   "title": "Lei nº 4.672, de 8 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5294",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 5,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5294/lei_no_4672_de_8_de_outubro_de_2026.pdf",
+     "sha256": "ecd60676d0b987adc2983a4a13dc9234a74c5fd9dc74b21e6fb6cc39eb7dae10"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04671",
+   "unit": "itabirito",
+   "short": "Lei 4671/2026",
+   "title": "Lei nº 4.671, de 8 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5293",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 8,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5293/lei_no_4671_de_8_de_outubro_de_2026.pdf",
+     "sha256": "87caea8bdc63dacacde03a8fecd399f86b2073484c1663e54cb9b8866c2d1b06"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04670",
+   "unit": "itabirito",
+   "short": "Lei 4670/2026",
+   "title": "Lei nº 4.670, de 5 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5292",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 4,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5292/lei_no_4670_de_05_de_outubro_de_2026_pl_241.2026.pdf",
+     "sha256": "687dda1864038e63f6a593787f3e04da22aecfac9fed1234180c73b182d2c583"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04669",
+   "unit": "itabirito",
+   "short": "Lei 4669/2026",
+   "title": "Lei nº 4.669, de 5 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5291",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 4,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5291/lei_no_4669_de_05_de_outubro_de_2026_pl_240.2026.pdf",
+     "sha256": "bafd35fc79514fc455f65c8a76b7e60eccd90cffa6edbf7f1451adfa6ad8a89f"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04668",
+   "unit": "itabirito",
+   "short": "Lei 4668/2026",
+   "title": "Lei nº 4.668, de 5 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5290",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 24,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5290/lei_no_4668_de_05_de_outubro_de_2026_pl_239.2026.pdf",
+     "sha256": "7b95a4c664fe118e70efe939c7157088f8e11485f6747ec0103520cf5b8f86f4"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04667",
+   "unit": "itabirito",
+   "short": "Lei 4667/2026",
+   "title": "Lei nº 4.667, de 5 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5289",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 10,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5289/lei_no_4667_de_05_de_outubro_de_2026_pl_238.2026.pdf",
+     "sha256": "0ba232f960fc7149315af6e1afcc805e53404915deace2b536bb24d883a0c8fb"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04666",
+   "unit": "itabirito",
+   "short": "Lei 4666/2026",
+   "title": "Lei nº 4.666, de 5 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5288",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 11,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5288/lei_no_4666_de_05_de_outubro_de_2026_pl_237.2026.pdf",
+     "sha256": "f45f4bbb79295eb211b39361dcd0c76784dae557f18d65f54c444bb450d47533"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04665",
+   "unit": "itabirito",
+   "short": "Lei 4665/2026",
+   "title": "Lei nº 4.665, de 5 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5287",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 11,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5287/lei_no_4665_de_05_de_outubro_de_2026_pl_236.2026.pdf",
+     "sha256": "33a507c7e7b4a19958e1cf0f66901aacc1d9f64f53e53b2733faee5f77652891"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04664",
+   "unit": "itabirito",
+   "short": "Lei 4664/2026",
+   "title": "Lei nº 4.664, de 5 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5286",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 6,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5286/lei_no_4664_de_05_de_outubro_de_2026_pl_233.2026.pdf",
+     "sha256": "85d3c98cfe65e6a6df5f3debbebba81747f93663f6cb63182be1a66b7c25b4b6"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04663",
+   "unit": "itabirito",
+   "short": "Lei 4663/2026",
+   "title": "Lei nº 4.663, de 5 de outubro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5285",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 6,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5285/lei_no_4663_de_05_de_outubro_de_2026_pl_230.2026.pdf",
+     "sha256": "56fe208bf34ab70e6931791af04d4460419098a5a1115369ebfbf2881e1eac8b"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04662",
+   "unit": "itabirito",
+   "short": "Lei 4662/2026",
+   "title": "Lei nº 4.662, de 28 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5283",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 6,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5283/lei_no_4662_de_28_de_setembro_de_2026_pl_234.2026.pdf",
+     "sha256": "5bc676453287e90aefd4ebc535cf51729f8cb529f3e31f509679b47f015f8b3c"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04661",
+   "unit": "itabirito",
+   "short": "Lei 4661/2026",
+   "title": "Lei nº 4.661, de 28 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5282",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 8,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5282/lei_no_4661_de_28_de_setembro_de_2026_pl_228.2026.pdf",
+     "sha256": "a611a15fcaf29d7e1ea11fd6fd7bbecdcc235a887fb2771978ad8116028e9254"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04660",
+   "unit": "itabirito",
+   "short": "Lei 4660/2026",
+   "title": "Lei nº 4.660, de 25 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5281",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 4,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5281/lei_no_4660_de_25_de_setembro_de_2026_pl_227.2026.pdf",
+     "sha256": "b876377d94d951bd30d0075abe7d8c8b3af9ae2986fa6fd92c3cf48be7ce98e3"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04659",
+   "unit": "itabirito",
+   "short": "Lei 4659/2026",
+   "title": "Lei nº 4.659, de 25 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5280",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 8,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5280/lei_no_4659_de_25_de_setembro_de_2026_pl_224.2026.pdf",
+     "sha256": "f435a64a7f4ff245ef868b840cb14b86fef7b4bac052872a14f4e6e725eb4c66"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04658",
+   "unit": "itabirito",
+   "short": "Lei 4658/2026",
+   "title": "Lei nº 4.658, de 25 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5279",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 13,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5279/lei_no_4658_de_25_de_setembro_de_2026_pl_217.2026.pdf",
+     "sha256": "4c6a76f10fef50e15d42bdbdbda3c0d8984167c611857f3294214ee74256a18f"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04657",
+   "unit": "itabirito",
+   "short": "Lei 4657/2026",
+   "title": "Lei nº 4.657, de 25 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5278",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 15,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5278/lei_no_4657_de_25_de_setembro_de_2026_pl_216.2026.pdf",
+     "sha256": "9a8ddbdc11f3172affb9ff7d9541d60d9692b80f945a11df6025c975463a8e27"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04656",
+   "unit": "itabirito",
+   "short": "Lei 4656/2026",
+   "title": "Lei nº 4.656, de 25 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5277",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 11,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5277/lei_no_4656_de_25_de_setembro_de_2026_pl_215.2026.pdf",
+     "sha256": "659166f6ef69b834696e5081937b37b85a7d8b448ecea90aa3423c253259c1f7"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04655",
+   "unit": "itabirito",
+   "short": "Lei 4655/2026",
+   "title": "Lei nº 4.655, de 25 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5276",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 12,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5276/lei_no_4655_de_25_de_setembro_de_2026_pl_214.2026.pdf",
+     "sha256": "2a1eda3079ebe037cd5e016c7f1337169163a476db273358718397db41beb370"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04654",
+   "unit": "itabirito",
+   "short": "Lei 4654/2026",
+   "title": "Lei nº 4.654, de 23 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5275",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 7,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5275/lei_no_4654_de_23_de_setembro_de_2026_pl_213.2026.pdf",
+     "sha256": "2108d7a944fdc0eb182e52de958fe353124d7d3ffc793fbad26b610b83c614ce"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04653",
+   "unit": "itabirito",
+   "short": "Lei 4653/2026",
+   "title": "Lei nº 4.653, de 23 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5274",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 6,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5274/lei_no_4653_de_23_de_setembro_de_2026_pl_212.2026.pdf",
+     "sha256": "bc128559b2c49283bb5be55adfc96b3c8e7c6705e0d706f231d00c6495f56668"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04652",
+   "unit": "itabirito",
+   "short": "Lei 4652/2026",
+   "title": "Lei nº 4.652, de 23 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5273",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 8,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5273/lei_no_4652_de_23_de_setembro_de_2026_pl_211.2026.pdf",
+     "sha256": "24dd9db4a5f54c5a13046c991f0f9b1f7995db5e3c6bda8dc6b133997bc101a3"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04651",
+   "unit": "itabirito",
+   "short": "Lei 4651/2026",
+   "title": "Lei nº 4.651, de 23 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5272",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 5,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5272/lei_no_4651_de_23_de_setembro_de_2026_pl_210.2026.pdf",
+     "sha256": "0309aeb0a728c346ee9f649c37b1897364382b9dca8a355ea88bbdcfc27909b6"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04650",
+   "unit": "itabirito",
+   "short": "Lei 4650/2026",
+   "title": "Lei nº 4.650, de 23 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5271",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 17,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5271/lei_no_4650_de_23_de_setembro_de_2026_pl_208.2026.pdf",
+     "sha256": "650ce0d5fe5d7e39d21475bfa6a003ed11b56786d2e22245f4bc3b111706e13d"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04649",
+   "unit": "itabirito",
+   "short": "Lei 4649/2026",
+   "title": "Lei nº 4.649, de 23 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5270",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 4,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5270/lei_no_4649_de_23_de_setembro_de_2026_pl_207.2026.pdf",
+     "sha256": "75219cdfa15b4bae9d59320268ebdb913169c7fbbbf805b4338536f6e271956a"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04648",
+   "unit": "itabirito",
+   "short": "Lei 4648/2026",
+   "title": "Lei nº 4.648, de 23 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5269",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 15,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5269/lei_no_4648_de_23_de_setembro_de_2026_pl_165.2026.pdf",
+     "sha256": "e0c79615941555edbcf5aa22b2fae37ae6e7d7e37544d73a393e1a9aa5ed469c"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04647",
+   "unit": "itabirito",
+   "short": "Lei 4647/2026",
+   "title": "Lei nº 4.647, de 23 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5268",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 16,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5268/lei_no_4647_de_23_de_setembro_de_2026_pl_154.2026.pdf",
+     "sha256": "630708a612f3745c421e43e716f95425ed6686d4741b9808199192aa6e501b44"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04646",
+   "unit": "itabirito",
+   "short": "Lei 4646/2026",
+   "title": "Lei nº 4.646, de 22 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5267",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 33,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5267/lei_no_4646_de_22_de_setembro_de_2026_pl_198.2026.pdf",
+     "sha256": "f97ae5c5dae088b05d8454711159f40be74c86b7c356819b5433b9622338dfd0"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04645",
+   "unit": "itabirito",
+   "short": "Lei 4645/2026",
+   "title": "Lei nº 4.645, de 21 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5265",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 9,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5265/lei_no_4645_de_21_de_setembro_de_2026_pl_204.2026.pdf",
+     "sha256": "a11bb7a3de62300196fd7d170c31f0770fe47021c2a60735ff75bef8f3872def"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04644",
+   "unit": "itabirito",
+   "short": "Lei 4644/2026",
+   "title": "Lei nº 4.644, de 21 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5264",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 17,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5264/lei_no_4644_de_21_de_setembro_de_2026_pl_201.2026.pdf",
+     "sha256": "c396405ebd0b8a1d2561f63ecce6de104f90b56c9fae3e49d9c99dea4b02e3d7"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04643",
+   "unit": "itabirito",
+   "short": "Lei 4643/2026",
+   "title": "Lei nº 4.643, de 21 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5263",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 5,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5263/lei_no_4643_de_21_de_setembro_de_2026_pl_195.2026.pdf",
+     "sha256": "e730bb68d9677475b1f60cea9643df315a96971b50c185bd8b96d158c28164ed"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04642",
+   "unit": "itabirito",
+   "short": "Lei 4642/2026",
+   "title": "Lei nº 4.642, de 21 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5262",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 4,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5262/lei_no_4642_de_21_de_setembro_de_2026_pl_194.2026.pdf",
+     "sha256": "be2a4f980f267c596778842c2e463bfcec0298d1917619313057de21d0081568"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04641",
+   "unit": "itabirito",
+   "short": "Lei 4641/2026",
+   "title": "Lei nº 4.641, de 15 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5260",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 5,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5260/lei_4641.pdf",
+     "sha256": "77892b4801cb8d3c73881ca09f0bfce5d71ecc5d22603c4cfaa260582110551e"
+    }
+   ]
+  },
+  {
+   "slug": "itabirito/lei-2026-04640",
+   "unit": "itabirito",
+   "short": "Lei 4640/2026",
+   "title": "Lei nº 4.640, de 15 de setembro de 2026",
+   "url": "https://sapl.itabirito.mg.leg.br/norma/5259",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 15,
+     "source_url": "https://sapl.itabirito.mg.leg.br/media/sapl/public/normajuridica/2026/5259/lei_no_4640_de_15_de_setembro_de_2026_pl_189.2026.pdf",
+     "sha256": "a99c657fd77ce2698451962b27de848eb1fedf3dbb7436caf0118d76867e27b5"
+    }
+   ]
+  },
+  {
+   "slug": "para-de-minas/lei-2021-06552",
+   "unit": "para-de-minas",
+   "short": "Lei 6552/2021",
+   "title": "Lei nº 6.552, de 30 de abril de 2021",
+   "url": "https://sapl.parademinas.mg.leg.br/norma/4371",
+   "versions": [
+    {
+     "from": "2021-04-30",
+     "units": 3,
+     "source_url": "https://sapl.parademinas.mg.leg.br/media/sapl/public/normajuridica/2021/4371/lo_6552_2021.pdf",
+     "sha256": "786338990394b6fc8f15e5a5bcf4978ef8b3649721a1984cd956a4c6bc41b8f0"
+    }
+   ]
+  },
+  {
+   "slug": "para-de-minas/lei-2021-06551",
+   "unit": "para-de-minas",
+   "short": "Lei 6551/2021",
+   "title": "Lei nº 6.551, de 30 de abril de 2021",
+   "url": "https://sapl.parademinas.mg.leg.br/norma/4369",
+   "versions": [
+    {
+     "from": "2021-04-30",
+     "units": 3,
+     "source_url": "https://sapl.parademinas.mg.leg.br/media/sapl/public/normajuridica/2021/4369/lo_6551_2021.pdf",
+     "sha256": "fcd5074cbfbae720f109778378dee62e47628759fcd3155ea5e317e8ea2d98d9"
+    }
+   ]
+  },
+  {
+   "slug": "para-de-minas/lei-2021-06550",
+   "unit": "para-de-minas",
+   "short": "Lei 6550/2021",
+   "title": "Lei nº 6.550, de 30 de abril de 2021",
+   "url": "https://sapl.parademinas.mg.leg.br/norma/4368",
+   "versions": [
+    {
+     "from": "2021-04-30",
+     "units": 3,
+     "source_url": "https://sapl.parademinas.mg.leg.br/media/sapl/public/normajuridica/2021/4368/lo_6550_2021.pdf",
+     "sha256": "95ac8f99afe46c4aa05a8064f9afc1d78c25ef567afb54f9f873baf9a5681515"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03986",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3986/2026",
+   "title": "Lei nº 3.986, de 27 de agosto de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7132",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 5,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7132/lei_3.986_-_declara_utilidade_publica_a_associacao_sociocultura_chico_xavier.pdf",
+     "sha256": "54436489f2c223d8aa0bd6ff2c2c05b482610dc6e5f425d43a3d29fa78b5129d"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03949",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3949/2026",
+   "title": "Lei nº 3.949, de 29 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7104",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 8,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7104/lei_3.949_-_mg_massa_argamassas_ltda.pdf",
+     "sha256": "769747f74ef646b6f03b760803cda5e48d8a060f9f88d23ab0833628aba7f924"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03948",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3948/2026",
+   "title": "Lei nº 3.948, de 29 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7103",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 3,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7103/lei_3.948_-_transporte_de_passageiros_por_taxi.pdf",
+     "sha256": "b8bde0d101a61c2c9be0f711df51bfb8b049d5ac90f50d572569627ae70635ea"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03947",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3947/2026",
+   "title": "Lei nº 3.947, de 29 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7102",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 4,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7102/lei_3.947_-_credito_adicional_suplementar.pdf",
+     "sha256": "d99586a9f4502db638e6b5e24e21ae5074fe497f797d63c872565a29b38a2f78"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03942",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3942/2026",
+   "title": "Lei nº 3.942, de 23 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7131",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 9,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7131/lei_municipal_no_3.942_-_politica_municipal_de_educacao_patrimonial.pdf",
+     "sha256": "b1b55e980e60ee20b8cf1a920c2b2f92b2c3651de9fb392d80dbaa5f8eeb17dc"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03941",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3941/2026",
+   "title": "Lei nº 3.941, de 18 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7100",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 8,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7100/lei_3.941_-_dia_municipal_dos_blocos_carnavalescos_e_das_baterias_de_escolas_de_samba.pdf",
+     "sha256": "a5a1a3663d11cc207a09cf3a0b6ba74db0ed30327fc5c7d1c965b65962e0ef03"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03940",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3940/2026",
+   "title": "Lei nº 3.940, de 18 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7099",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 8,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7099/lei_3.940_-_politica_municipal_de_incentivo_atendimento_psicologico.pdf",
+     "sha256": "dc020eb0dd0f9f18c7b6530c745fe09277f1a0202e764982a841f36fac6f2378"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03937",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3937/2026",
+   "title": "Lei nº 3.937, de 18 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7096",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 7,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7096/lei_3.937_-_karate_-_patrimonio_cultural_imaterial.pdf",
+     "sha256": "0370c251eb1bb65b635ba0376a924b3682254ecde2fff1b5fd5ed3b63492c92e"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03936",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3936/2026",
+   "title": "Lei nº 3.936, de 18 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7095",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 13,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7095/lei_3.936_-_politica_e_o_sistema_de_seguranca_alimentar_e_nutricional.pdf",
+     "sha256": "74addaa266e18f23da52f8d821cb9b29384c32f1cd7bf024282a6f095986be4b"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03935",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3935/2026",
+   "title": "Lei nº 3.935, de 18 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7094",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 3,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7094/lei_3.935_-_altera_lei_3857-2025_-_cogemas.pdf",
+     "sha256": "8c5c442651c465685c398a9a914e741b230fdff99e5e6c46c039e48245ab8d29"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03934",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3934/2026",
+   "title": "Lei nº 3.934, de 9 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7086",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 6,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7086/lei_3.934_-_reconhecimento_da_capoeira_como_patrimonio_cultural_imaterial.pdf",
+     "sha256": "0d4576491a78eff8dcbe80b61ed4e9cfa8b935104c7bb018bb392590832f41b7"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03933",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3933/2026",
+   "title": "Lei nº 3.933, de 9 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7085",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 11,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7085/lei_3.933_-_programa_comercio_amigo_da_agricultura_familiar.pdf",
+     "sha256": "45865cff20bd568168e2762f0ab8c8ab5f806fb8ad8f51624f38f2390d24d903"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03930",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3930/2026",
+   "title": "Lei nº 3.930, de 9 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7079",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 6,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7079/lei_3.930_-_intercity.pdf",
+     "sha256": "f9f0ff80e4cd9eddf4cb6578bcab618620a6e85d808617bdcea14949b65e65b3"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03928",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3928/2026",
+   "title": "Lei nº 3.928, de 9 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7077",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 11,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7077/lei_3.928_-_selo_produto_da_roca.pdf",
+     "sha256": "ea7fbf56929b75f4320dd984b4323280cbfb193a937ba3b186304cc21e9dd8d8"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03927",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3927/2026",
+   "title": "Lei nº 3.927, de 9 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7076",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 10,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7076/lei_3.927_-_programa_de_incentivo_a_cidadania.pdf",
+     "sha256": "31fe5d260eb74dee14fba75f17a555844531482574a2ba679e0afc03e3d15ba1"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03932",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3932/2026",
+   "title": "Lei nº 3.932, de 1 de junho de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7083",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 7,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7083/lei_3.932_-_sensor_monitoramento_glicose.pdf",
+     "sha256": "f87380f7673834960e273c9c1ea66c063b5ced39bed2e7b975b9dd2397f7047e"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03926",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3926/2026",
+   "title": "Lei nº 3.926, de 21 de maio de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7071",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 7,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7071/lei_municipal_no_3.926_de_21_de_maio_de_2026_-_vida_sobre_duas_rodas.pdf",
+     "sha256": "fd756a329d1d172ecb9ab41639b1b92f8110ba0188f77439428bacb71c1897e7"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03925",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3925/2026",
+   "title": "Lei nº 3.925, de 21 de maio de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7070",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 3,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7070/lei_municipal_no_3.925_de_21_de_maio_de_2026_-_altera_a_lei_municipal_3857-2025.pdf",
+     "sha256": "5921e7f13a74293de86dbd25e2cb56a76e783682e9743e9a2efb212d208625d5"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03924",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3924/2026",
+   "title": "Lei nº 3.924, de 21 de maio de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7069",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 5,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7069/lei_municipal_no_3.924_de_21_de_maio_de_2026_-_altera_a_lei_2909_-_ctm_-_taxa_de_fiscalizacao_localizacao_e_funcionamento.pdf",
+     "sha256": "99bbc99a21b93fd8ad718627ebaa06e4f8b2c6dcf85d283d439bea0bdd79ec82"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03923",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3923/2026",
+   "title": "Lei nº 3.923, de 21 de maio de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7068",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 9,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7068/lei_municipal_no_3.923_de_21_de_maio_de_2026_-_semana_municipal_de_prevencao_e_conscientizacao_contra_a_violencia_a_mulher.pdf",
+     "sha256": "731205a9fa44e580ebcf9af9159421ebb4108f2f2b3ed73b87798aac961a7f97"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03922",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3922/2026",
+   "title": "Lei nº 3.922, de 21 de maio de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7067",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 6,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7067/lei_municipal_no_3.922_de_21_de_maio_de_2026_-_institui_no_ambito_do_municipio_de_pedro_leopoldo_a_campanha_julho_dourado.pdf",
+     "sha256": "466fad50af31abbbcfcdf2ee21f3c079357403791fb5c47b39b4ca5cc2cc19e2"
+    }
+   ]
+  },
+  {
+   "slug": "pedro-leopoldo/lei-2026-03919",
+   "unit": "pedro-leopoldo",
+   "short": "Lei 3919/2026",
+   "title": "Lei nº 3.919, de 13 de março de 2026",
+   "url": "https://sapl.pedroleopoldo.mg.leg.br/norma/7034",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 8,
+     "source_url": "https://sapl.pedroleopoldo.mg.leg.br/media/sapl/public/normajuridica/2026/7034/lei_municipal_no_3.919_de_13_de_marco_de_2026.pdf",
+     "sha256": "6572b6e96c8a349836631108b5352e235fd33ea401a043a0f65c9bf7e88bc64f"
+    }
+   ]
+  },
+  {
+   "slug": "timoteo/lc-2026-00016",
+   "unit": "timoteo",
+   "short": "LC 16/2026",
+   "title": "Lei Complementar nº 16, de 29 de julho de 2026",
+   "url": "https://sapl.timoteo.mg.leg.br/norma/8572",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 4,
+     "source_url": "https://sapl.timoteo.mg.leg.br/media/sapl/public/normajuridica/2026/8572/lc_016_-_altera_a_lei_complementar_no_09.pdf",
+     "sha256": "86863b56e9d16b984188d3b80fc8896f7932e836647b9f71051f769768e2f38c"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "path": "br-mg-municipal",
+  "code": "BR-MG-MUNICIPAL",
+  "name": "Minas Gerais (municipal chambers)",
+  "level": "municipalities",
+  "parent": "br-mg",
+  "repo": "https://github.com/lexifina/brazil-minas-gerais-municipal-law",
+  "build": "built: the municipal law of Minas Gerais from the Câmaras Municipais' SAPL",
+  "units": [
+    "contagem",
+    "para-de-minas",
+    "pedro-leopoldo",
+    "timoteo",
+    "frutal",
+    "itabirito"
+  ]
+}

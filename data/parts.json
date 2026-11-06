@@ -1,0 +1,148 @@
+{
+ "parts": {
+  "contagem--40-ocr-001.json": {
+   "acts": [
+    "contagem/lc-2026-00405",
+    "contagem/lc-2026-00406",
+    "contagem/lc-2026-00407",
+    "contagem/lc-2026-00408",
+    "contagem/lei-2026-05741",
+    "contagem/lei-2026-05742",
+    "contagem/lei-2026-05743",
+    "contagem/lei-2026-05746",
+    "contagem/lei-2026-05747",
+    "contagem/lei-2026-05748",
+    "contagem/lei-2026-05750",
+    "contagem/lei-2026-05753",
+    "contagem/lei-2026-05754",
+    "contagem/lei-2026-05756",
+    "contagem/lei-2026-05762",
+    "contagem/lei-2026-05763",
+    "contagem/lei-2026-05764",
+    "contagem/lei-2026-05765",
+    "contagem/lei-2026-05766",
+    "contagem/lei-2026-05767",
+    "contagem/lei-2026-05768",
+    "contagem/lei-2026-05770",
+    "contagem/lei-2026-05772",
+    "contagem/lei-2026-05774",
+    "contagem/lei-2026-05775"
+   ],
+   "sha256": "e2f66efb0adb88b2aa02d3b29b461f759e1713e490780bea26cea53d5a7ed341"
+  },
+  "contagem--40-ocr-002.json": {
+   "acts": [
+    "contagem/lei-2026-05730",
+    "contagem/lei-2026-05731",
+    "contagem/lei-2026-05733",
+    "contagem/lei-2026-05734",
+    "contagem/lei-2026-05735",
+    "contagem/lei-2026-05736",
+    "contagem/lei-2026-05738",
+    "contagem/lei-2026-05739",
+    "contagem/lei-2026-05740"
+   ],
+   "sha256": "01629b8697f4c2022b332a8470898b4446b23b0215215e3e2e10a7e85e708cc7"
+  },
+  "frutal--30-leis-001.json": {
+   "acts": [
+    "frutal/lei-2022-06600"
+   ],
+   "sha256": "ae12d2daaec4b59ad7eec19ffca5bb36512f81da14cf6dd94e43fa39e9b3df1d"
+  },
+  "itabirito--30-leis-001.json": {
+   "acts": [
+    "itabirito/lei-2026-04640",
+    "itabirito/lei-2026-04641",
+    "itabirito/lei-2026-04642",
+    "itabirito/lei-2026-04643",
+    "itabirito/lei-2026-04644",
+    "itabirito/lei-2026-04645",
+    "itabirito/lei-2026-04646",
+    "itabirito/lei-2026-04647",
+    "itabirito/lei-2026-04648",
+    "itabirito/lei-2026-04649",
+    "itabirito/lei-2026-04650",
+    "itabirito/lei-2026-04651",
+    "itabirito/lei-2026-04652",
+    "itabirito/lei-2026-04653",
+    "itabirito/lei-2026-04654",
+    "itabirito/lei-2026-04655",
+    "itabirito/lei-2026-04656",
+    "itabirito/lei-2026-04657",
+    "itabirito/lei-2026-04658",
+    "itabirito/lei-2026-04659",
+    "itabirito/lei-2026-04660",
+    "itabirito/lei-2026-04661",
+    "itabirito/lei-2026-04662",
+    "itabirito/lei-2026-04663",
+    "itabirito/lei-2026-04664",
+    "itabirito/lei-2026-04665",
+    "itabirito/lei-2026-04666",
+    "itabirito/lei-2026-04667",
+    "itabirito/lei-2026-04668",
+    "itabirito/lei-2026-04669",
+    "itabirito/lei-2026-04670",
+    "itabirito/lei-2026-04671",
+    "itabirito/lei-2026-04672",
+    "itabirito/lei-2026-04673",
+    "itabirito/lei-2026-04674",
+    "itabirito/lei-2026-04675",
+    "itabirito/lei-2026-04676",
+    "itabirito/lei-2026-04677",
+    "itabirito/lei-2026-04678",
+    "itabirito/lei-2026-04679",
+    "itabirito/lei-2026-04680",
+    "itabirito/lei-2026-04681",
+    "itabirito/lei-2026-04682",
+    "itabirito/lei-2026-04683",
+    "itabirito/lei-2026-04684",
+    "itabirito/lei-2026-04685",
+    "itabirito/lei-2026-04686"
+   ],
+   "sha256": "31737e3b46531822c913322c7b8cffbbb9d541a76e25ef55f2846acfae32fee5"
+  },
+  "para-de-minas--30-leis-001.json": {
+   "acts": [
+    "para-de-minas/lei-2021-06550",
+    "para-de-minas/lei-2021-06551",
+    "para-de-minas/lei-2021-06552"
+   ],
+   "sha256": "53de31b7446506dd5b454ac0ecb0f7ffa804fdd78ca5aee4a00bbacea2e86b92"
+  },
+  "pedro-leopoldo--30-leis-001.json": {
+   "acts": [
+    "pedro-leopoldo/lei-2026-03919",
+    "pedro-leopoldo/lei-2026-03922",
+    "pedro-leopoldo/lei-2026-03923",
+    "pedro-leopoldo/lei-2026-03924",
+    "pedro-leopoldo/lei-2026-03925",
+    "pedro-leopoldo/lei-2026-03926",
+    "pedro-leopoldo/lei-2026-03927",
+    "pedro-leopoldo/lei-2026-03928",
+    "pedro-leopoldo/lei-2026-03930",
+    "pedro-leopoldo/lei-2026-03932",
+    "pedro-leopoldo/lei-2026-03933",
+    "pedro-leopoldo/lei-2026-03934",
+    "pedro-leopoldo/lei-2026-03935",
+    "pedro-leopoldo/lei-2026-03936",
+    "pedro-leopoldo/lei-2026-03937",
+    "pedro-leopoldo/lei-2026-03940",
+    "pedro-leopoldo/lei-2026-03941",
+    "pedro-leopoldo/lei-2026-03942",
+    "pedro-leopoldo/lei-2026-03947",
+    "pedro-leopoldo/lei-2026-03948",
+    "pedro-leopoldo/lei-2026-03949",
+    "pedro-leopoldo/lei-2026-03986"
+   ],
+   "sha256": "7ded3461041dcfd70a85f4fd606035a30bb6302b91f54cc417359915f29cdc9d"
+  },
+  "timoteo--30-leis-001.json": {
+   "acts": [
+    "timoteo/lc-2026-00016"
+   ],
+   "sha256": "3d8b7174f4e8fdc7dcf44cba32dd3630da72499034e76faec4390f723fb730ad"
+  }
+ },
+ "schema": 1
+}
